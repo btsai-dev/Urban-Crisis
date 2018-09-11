@@ -1,93 +1,150 @@
 <resources>
-    <!-- These are Menu Titles -->
-    <!-- SECOND THE CHARMA? -->
-    <string name="app_name">RHF Manual</string>
-    <string name="bombing">Sudden Bombing</string>
-    <string name="trouble">Car Trouble</string>
-    <string name="fire">Fire Emergency</string>
-    <string name="shooter">Mass Shooting</string>
-    <string name="main">Main</string>
-    <string name="riot">Public Riot</string>
-    <string name="train">Runaway Train</string>
-    <string name="ship">Sinking Ship</string>
-    <string name="avoid">Avoid Discovery</string>
-    <string name="barricade">Barricading Technique</string>
-    <string name="disease">Disease Outbreak</string>
-    <string name="hazmat">Hazardous Material</string>
-    <string name="medical">Medical Emergency</string>
-    <string name="disaster">Natural Disaster</string>
-    <string name="signaling">Signal for Help</string>
-    <string name="absorb">Take a Hit</string>
-    <string name="disarm">Disarm an Opponent</string>
-    <string name="shield">Ballistic Shield</string>
-    <string name="weapon">Improvised Weapon</string>
-    <string name="offense">Offensive Action</string>
-    <string name="defense">Protective Action</string>
-    <string name="weakness">Shooter Weakness</string>
+	<!-- These are Menu Titles -->
+	<string name="app_name">RHF Manual</string>
+	
+	<string name="category0">Main</string>
+    <string name="introduction">Introduction</string>
+	<string name="references">References and Credits</string>
+	
+	<string name="category1">Avoiding Harm</string>
+	<string name="active">Active Shooter</string>
+    <string name="disease">Disease and Infection</string>
+	<string name="escaping">Escaping a Multistory</string>
+	<string name="explosive">Explosive Devices</string>
+    <string name="medical">Medical Treatment</string>
+    <string name="minimizing">Minimizing Injury</string>
+    <string name="nbc1">NBC Attacks</string>
+	<string name="nbc2">NBC Decontamination</string>
+    <string name="transportation">Transportation Troubles</string>
+	<string name="violent">Violent Rioting</string>
+	
+	<string name="category2">Clandestine Activities</string>
+    <string name="avoiding">Avoiding Detection</string>
+    <string name="barricading">Barricading Technique</string>
+    <string name="circumvent">Circumvent Security</string>
+	
+	<string name="category3">Fighting Back</string>
+    <string name="basic">Basic Combatives</string>
+    <string name="disarming">Disarming Opponents</string>
+    <string name="firefighting">Firefighting</string>
+    <string name="improvised">Improvised Weapons</string>
+    <string name="restraining">Restraining Devices</string>
+	
+	<string name="category4">Getting Help</string>
+    <string name="codes">Codes</string>
+    <string name="signals">Signals</string>
+    <string name="telecommunications">Telecommunications</string>
+	
     <!-- These are actual Menu Text -->
     
-    <string name="bombingText">
-        Text Of Sudden Bombing
-    </string>
-    <string name="troubleText">
-        Text Of Car Trouble
+    <string name="referencesText">
+		Text CONTENT referencesText
     </string>
     
-    <string name="shooterText">
-        Text Of Mass Shooting
+    <string name="activeText">
+		Text CONTENT activeText
     </string>
-    <string name="riotText">
-        Text Of Public Riot
-    </string>
-    <string name="trainText">
-        Text Of Runaway Train
-    </string>
-    <string name="shipText">
-        Text Of Sinking Ship
-    </string>
-    <string name="avoidText">
-        Text Of Avoid Discovery
-    </string>
-    <string name="barricadeText">
-        Text Of Barricading Technique
-    </string>
+    
     <string name="diseaseText">
-        Text Of Disease Outbreak
+		Text CONTENT diseaseText
     </string>
-    <string name="hazmatText">
-        Text Of Hazardous Material
+    
+    <string name="escapingText">
+		Text CONTENT escapingText
     </string>
+    
+    <string name="explosiveText">
+		Text CONTENT explosiveText
+    </string> 
+    
     <string name="medicalText">
-        Text Of Medical Emergency
+		Text CONTENT medicalText
     </string>
-    <string name="disasterText">
-        Text Of Natural Disaster
+    
+    <string name="minimizingText">
+		Text CONTENT minimizingText
     </string>
-    <string name="signalingText">
-        Text Of Signal for Help
+    
+    <string name="nbc1Text">
+		Text CONTENT nbc1Text
     </string>
-    <string name="absorbText">
-        Text Of Take a Hit
+    
+    <string name="nbc2Text">
+		Text CONTENT nbc2Text
     </string>
-    <string name="disarmText">
-        Text Of Disarm Opponent
+    
+    <string name="transportationText">
+		Text CONTENT transportationText
     </string>
-    <string name="shieldText">
-        Text Of Ballistic Shield
+    
+    <string name="violentText">
+		Text CONTENT violentText
     </string>
-    <string name="weaponText">
-        Text Of Improvised Weapon
+    
+    <string name="avoidingText">
+		Text CONTENT avoidingText
     </string>
-    <string name="offenseText">
-        Text Of Offensive Action
+    
+    <string name="barricadingText">
+		Text CONTENT barricadingText
     </string>
-    <string name="defenseText">
-        Text Of Protective Action
+    
+    <string name="circumventText">
+		Text CONTENT circumventText
     </string>
-    <string name="weaknessText">
-        Text Of Shooter Weakness
+    
+    <string name="basicText">
+		Text CONTENT basicText
     </string>
-	<string name="fireText">
+    
+    <string name="disarmingText">
+		Text CONTENT disarmingText
+    </string>
+    
+    <string name="firefightingText">
+		Text CONTENT firefightingText
+    </string>
+    
+    <string name="improvisedText">
+		Text CONTENT improvisedText
+    </string>
+    
+    <string name="restrainingText">
+		Text CONTENT restrainingText
+    </string> 
+    
+    <string name="codesText">
+		Text CONTENT codesText
+    </string>
+    
+    <string name="signalsText">
+		Text CONTENT signalsText
+    </string>
+    
+    <string name="telecommunicationsText">
+		Text CONTENT telecommunicationsText
+    </string>
+
+	<string name="introductionText">
+        <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>\n\n
+        This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.\n\n
+        The most important parts of the app are in <b>bold</b>, so if you don\'t have time to read through everything, you\'ll know what\'s the important stuff. Also make sure to take a look at the pictures, as they may help more than words.\n\n
+        This app references the following:\n
+        - FM 3-3: Chemical and Biological Contamination Avoidance\n
+        - FM 3-3.1: Nuclear Contamination Avoidance\n
+        - FM 3-5: NBC Decontamination\n
+        - FM 4-25.11: First Aid\n
+        - FM 12-80: Kill, or Get Killed\n
+        - FM 21-10: Field Hygiene and Sanitation\n
+        - FM 21-60: Visual Signals\n
+        - FM 21-150: Combatives\n
+        - FM 55-501: Marine Crewman\'s Handbook\n
+        - Other texts\n\n
+        Hopefully you\'ll never encounter any of the situations this app deals with, but if you do, don\'t worry, you\'ve increased your survival chance by a statistically insignificant amount! :D\n\n
+        Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!\n\n
+        This app was created for the Congressional App Challenge.
+    </string>
+	<string name="firefightingText">
 			<b>The fire classes are based on the United States fire classification system.</b>\n
 			<b>The fire classes are based on the United States fire classification system.</b>\n
 			<b>FIRE CLASSIFICATION</b>\n
@@ -107,23 +164,6 @@
 			- Dry Powder Extinguishers: They extinguish fires by eliminating the Heat or Oxygen element. <b>They have a blue label, and are intended for Class D fires only.</b>
       - Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n
     </string>
-<string name="mainText">
-        <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>\n\n
-        This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.\n\n
-        The most important parts of the app are in <b>bold</b>, so if you don\'t have time to read through everything, you\'ll know what\'s the important stuff. Also make sure to take a look at the pictures, as they may help more than words.\n\n
-        This app references the following:\n
-        - FM 3-3: Chemical and Biological Contamination Avoidance\n
-        - FM 3-3.1: Nuclear Contamination Avoidance\n
-        - FM 3-5: NBC Decontamination\n
-        - FM 4-25.11: First Aid\n
-        - FM 12-80: Kill, or Get Killed\n
-        - FM 21-10: Field Hygiene and Sanitation\n
-        - FM 21-60: Visual Signals\n
-        - FM 21-150: Combatives\n
-        - FM 55-501: Marine Crewman\'s Handbook\n
-        - Other texts\n\n
-        Hopefully you\'ll never encounter any of the situations this app deals with, but if you do, don\'t worry, you\'ve increased your survival chance by a statistically insignificant amount! :D\n\n
-        Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!\n\n
-        This app was created for the Congressional App Challenge.
-    </string>
+	
+
 </resources>

@@ -3,118 +3,129 @@
     File: drawer_view.xml
     Purpose: This file details the xml data necessary for the elements of the navigational bar. Each
     element contains a unique id, an icon, and a title.
--->
 
+  
+-->
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:title="Main">
+    <item android:title="@string/category0">
         <menu>
             <group>
                 <item
-                    android:id="@+id/nav_main"
+                    android:id="@+id/mainID"
                     android:icon="@drawable/main"
                     android:title="@string/main"/>
+                <item
+                    android:id="@+id/referencesID"
+                    android:icon="@drawable/references"
+                    android:title="@string/references"/>
             </group>
         </menu>
     </item>
-    <item android:title="Run">
+    <item android:title="@string/category1">
         <menu>
             <group>
                 <item
-                    android:id="@+id/nav_trouble"
-                    android:icon="@drawable/trouble"
-                    android:title="@string/trouble" />
+                    android:id="@+id/activeID"
+                    android:icon="@drawable/active"
+                    android:title="@string/active" />
                 <item
-                    android:id="@+id/nav_fire"
-                    android:icon="@drawable/fire"
-                    android:title="@string/fire" />
-                <item
-                    android:id="@+id/nav_shooter"
-                    android:icon="@drawable/shooter"
-                    android:title="@string/shooter" />
-                <item
-                    android:id="@+id/nav_riot"
-                    android:icon="@drawable/riot"
-                    android:title="@string/riot" />
-                <item
-                    android:id="@+id/nav_train"
-                    android:icon="@drawable/train"
-                    android:title="@string/train" />
-                <item
-                    android:id="@+id/nav_ship"
-                    android:icon="@drawable/ship"
-                    android:title="@string/ship" />
-                <item
-                    android:id="@+id/nav_bombing"
-                    android:icon="@drawable/bombing"
-                    android:title="@string/bombing" />
-            </group>
-        </menu>
-    </item>
-    <item android:title="Hide">
-        <menu>
-            <group>
-                <item
-                    android:id="@+id/nav_avoid"
-                    android:icon="@drawable/avoid"
-                    android:title="@string/avoid" />
-                <item
-                    android:id="@+id/nav_barricade"
-                    android:icon="@drawable/barricade"
-                    android:title="@string/barricade" />
-                <item
-                    android:id="@+id/nav_disease"
+                    android:id="@+id/diseaseID"
                     android:icon="@drawable/disease"
                     android:title="@string/disease" />
                 <item
-                    android:id="@+id/nav_hazmat"
-                    android:icon="@drawable/hazmat"
-                    android:title="@string/hazmat" />
+                    android:id="@+id/escapingID"
+                    android:icon="@drawable/escaping"
+                    android:title="@string/escaping" />
                 <item
-                    android:id="@+id/nav_medical"
+                    android:id="@+id/explosiveID"
+                    android:icon="@drawable/explosive"
+                    android:title="@string/explosive" />
+                <item
+                    android:id="@+id/medicalID"
                     android:icon="@drawable/medical"
                     android:title="@string/medical" />
                 <item
-                    android:id="@+id/nav_disaster"
-                    android:icon="@drawable/disaster"
-                    android:title="@string/disaster" />
+                    android:id="@+id/minimizingID"
+                    android:icon="@drawable/minimizing"
+                    android:title="@string/minimizing" />
                 <item
-                    android:id="@+id/nav_signaling"
-                    android:icon="@drawable/signaling"
-                    android:title="@string/signaling" />
+                    android:id="@+id/nbc1ID"
+                    android:icon="@drawable/nbc1"
+                    android:title="@string/nbc1" />
+                <item
+                    android:id="@+id/nbc2ID"
+                    android:icon="@drawable/nbc2"
+                    android:title="@string/nbc2" />
+                <item
+                    android:id="@+id/transportationID"
+                    android:icon="@drawable/transportation"
+                    android:title="@string/transportation" />
+                <item
+                    android:id="@+id/violent"
+                    android:icon="@drawable/violent"
+                    android:title="@string/violent" />
             </group>
         </menu>
     </item>
-    <item android:title="Fight">
+    <item android:title="@string/category2">
         <menu>
             <group>
                 <item
-                    android:id="@+id/nav_disarm"
-                    android:icon="@drawable/disarm"
-                    android:title="@string/disarm" />
+                    android:id="@+id/avoidingID"
+                    android:icon="@drawable/avoiding"
+                    android:title="@string/avoiding" />
                 <item
-                    android:id="@+id/nav_shield"
-                    android:icon="@drawable/shield"
-                    android:title="@string/shield" />
+                    android:id="@+id/barricadingID"
+                    android:icon="@drawable/barricading"
+                    android:title="@string/barricading" />
                 <item
-                    android:id="@+id/nav_weapon"
-                    android:icon="@drawable/weapon"
-                    android:title="@string/weapon" />
+                    android:id="@+id/circumventID"
+                    android:icon="@drawable/circumvent"
+                    android:title="@string/circumvent" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/category3">
+        <menu>
+            <group>
                 <item
-                    android:id="@+id/nav_offense"
-                    android:icon="@drawable/offense"
-                    android:title="@string/offense" />
+                    android:id="@+id/basicID"
+                    android:icon="@drawable/basic"
+                    android:title="@string/basic" />
                 <item
-                    android:id="@+id/nav_defense"
-                    android:icon="@drawable/defense"
-                    android:title="@string/defense" />
+                    android:id="@+id/disarmingID"
+                    android:icon="@drawable/disarming"
+                    android:title="@string/disarming" />
                 <item
-                    android:id="@+id/nav_weakness"
-                    android:icon="@drawable/weakness"
-                    android:title="@string/weakness" />
+                    android:id="@+id/firefightingID"
+                    android:icon="@drawable/firefighting"
+                    android:title="@string/firefighting" />
                 <item
-                    android:id="@+id/nav_absorb"
-                    android:icon="@drawable/absorb"
-                    android:title="@string/absorb" />
+                    android:id="@+id/improvisedID"
+                    android:icon="@drawable/improvised"
+                    android:title="@string/improvised" />
+                <item
+                    android:id="@+id/restrainingID"
+                    android:icon="@drawable/restraining"
+                    android:title="@string/restraining" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/category4">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/codesID"
+                    android:icon="@drawable/codes"
+                    android:title="@string/codes" />
+                <item
+                    android:id="@+id/signalsID"
+                    android:icon="@drawable/signals"
+                    android:title="@string/signals" />
+                <item
+                    android:id="@+id/telecommunicationsID"
+                    android:icon="@drawable/telecommunications"
+                    android:title="@string/telecommunications" />
             </group>
         </menu>
     </item>

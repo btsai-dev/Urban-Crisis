@@ -2,30 +2,33 @@
 A manual to prepare people for random emergency events and increase their chances of survival by a statistically insignificant amount.
 ### Section 0: Main
 - Introduction
-- References
+- References and Credit
+
 ### Section 1: Avoiding Harm
 - Active Shooters
 - Disease and Infection
-- Escaping a Building
+- Escaping a Multistory
 - Explosive Devices
-- Medical Assistance
+- Medical Treatment
+- Minimizing Injury
 - NBC Attacks
 - NBC Decontamination
 - Public Riot
-- Transportation Emergency
-### Section 2: Getting Help
-- Codes and Signals
-- Telecommunications
-- Visual and Audio Signals
-### Section 3: Clandestine Activities
-- Avoiding Discovery
-- Bypassing Doors
+- Transportation Troubles
+
+### Section 2: Clandestine Activities
+- Avoiding Detection
 - Barricading Techniques
-- Hide Effectively
-### Section 4: Fighting Back
+- Circumvent Security
+
+### Section 3: Fighting Back
 - Basic Combatives
 - Disarming Opponents
 - Improvised Weapons
 - Fighting Fires
-- Minimizing Injury
 - Restraining Devices
+
+### Section 4: Getting Help
+- Codes
+- Signals
+- Telecommunications
