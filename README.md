@@ -5,18 +5,16 @@ A manual to prepare people for random emergency events and increase their chance
 - References
 ### Section 1: Avoiding Harm
 - Active Shooters
-- Car Troubles
 - Disease and Infection
 - Escaping a Building
 - Explosive Devices
-- Natural Disasters
+- Medical Assistance
 - NBC Attacks
 - NBC Decontamination
 - Public Riot
 - Transportation Emergency
 ### Section 2: Getting Help
 - Codes and Signals
-- Medical Assistance
 - Telecommunications
 - Visual and Audio Signals
 ### Section 3: Clandestine Activities

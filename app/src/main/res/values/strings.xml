@@ -51,7 +51,17 @@
         Text Of Car Trouble
     </string>
     <string name="fireText">
-        Text Of Fire Emergency
+			<b>The fire classes are based on the United States fire classification system.</b>\n
+      There are six classes of fires:\n
+      Class A: Fire consists of <b>ordinary combustibles such as wood, paper, and fabric.</b>\n
+      Class B: Fire consists of <b>flammable or combustible liquids or gases.</b>\n
+			Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sustainable Chain Reaction to keep the fire burning. There are usually six types of fire extinguisher equipment at hand:\n
+			- Water Extinguishers: One of the classic and cost-effective ways to fight fires, they spray water to decrease Heat and soak into the material, if applicable. <b>They have a red label, and should be used to fight Class A fires, but NOT Class B. Class C, or Class K fires.</b>\n
+			- Foam Extinguishers: They extinguish by eliminating the Oxygen element. <b>They have a cream label, and should be used to fight Class A and Class B fires.</b>\n
+      - Carbon Dioxide Extinguishers: They extinguish fires by eliminating the Oxygen and Heat elements of a fire. <b>They have a black label, and should be used to fight Class B or Class C fires.</b>
+      - Dry Chemical Extinguishers: They extinguish fires by eliminating the Sustainable Chain Reaction element of a fire. <b>They have a blue label, and should be used for Class B and Class C fires. However, some may also be suitable for Class A fires, but make sure that the fire gets fully extinguished.</b>\n
+      - Wet Chemical Extinguishers: They extinguish fires by eliminating the Heat and Sustainable Chain Reaction elements of a fire. <b>They have a yellow label, and while they are primarily designed to extinguish Class K fires, they can also be used to extinguish Class A and Class B fires.</b>\n
+      - Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n
     </string>
     <string name="shooterText">
         Text Of Mass Shooting
