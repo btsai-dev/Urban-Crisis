@@ -1,0 +1,109 @@
+<resources>
+    <!-- These are Menu Titles -->
+    <string name="app_name">RHF Manual</string>
+    <string name="bombing">Sudden Bombing</string>
+    <string name="trouble">Car Trouble</string>
+    <string name="fire">Fire Emergency</string>
+    <string name="shooter">Mass Shooting</string>
+    <string name="main">Main</string>
+    <string name="riot">Public Riot</string>
+    <string name="train">Runaway Train</string>
+    <string name="ship">Sinking Ship</string>
+    <string name="avoid">Avoid Discovery</string>
+    <string name="barricade">Barricading Technique</string>
+    <string name="disease">Disease Outbreak</string>
+    <string name="hazmat">Hazardous Material</string>
+    <string name="medical">Medical Emergency</string>
+    <string name="disaster">Natural Disaster</string>
+    <string name="signaling">Signal for Help</string>
+    <string name="absorb">Take a Hit</string>
+    <string name="disarm">Disarm an Opponent</string>
+    <string name="shield">Ballistic Shield</string>
+    <string name="weapon">Improvised Weapon</string>
+    <string name="offense">Offensive Action</string>
+    <string name="defense">Protective Action</string>
+    <string name="weakness">Shooter Weakness</string>
+    <!-- These are actual Menu Text -->
+    <string name="mainText">
+        <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>\n\n
+        This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.\n\n
+        The most important parts of the app are in <b>bold</b>, so if you don\'t have time to read through everything, you\'ll know what\'s the important stuff. Also make sure to take a look at the pictures, as they may help more than words.\n\n
+        This app references the following:\n
+        - FM 3-3: Chemical and Biological Contamination Avoidance\n
+        - FM 3-3.1: Nuclear Contamination Avoidance\n
+        - FM 3-5: NBC Decontamination\n
+        - FM 4-25.11: First Aid\n
+        - FM 12-80: Kill, or Get Killed\n
+        - FM 21-10: Field Hygiene and Sanitation\n
+        - FM 21-60: Visual Signals\n
+        - FM 21-150: Combatives\n
+        - FM 55-501: Marine Crewman\'s Handbook\n
+        - Other texts\n\n
+        Hopefully you\'ll never encounter any of the situations this app deals with, but if you do, don\'t worry, you\'ve increased your survival chance by a statistically insignificant amount! :D\n\n
+        Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!\n\n
+        This app was created for the Congressional App Challenge.
+    </string>
+    <string name="bombingText">
+        Text Of Sudden Bombing
+    </string>
+    <string name="troubleText">
+        Text Of Car Trouble
+    </string>
+    <string name="fireText">
+        Text Of Fire Emergency
+    </string>
+    <string name="shooterText">
+        Text Of Mass Shooting
+    </string>
+    <string name="riotText">
+        Text Of Public Riot
+    </string>
+    <string name="trainText">
+        Text Of Runaway Train
+    </string>
+    <string name="shipText">
+        Text Of Sinking Ship
+    </string>
+    <string name="avoidText">
+        Text Of Avoid Discovery
+    </string>
+    <string name="barricadeText">
+        Text Of Barricading Technique
+    </string>
+    <string name="diseaseText">
+        Text Of Disease Outbreak
+    </string>
+    <string name="hazmatText">
+        Text Of Hazardous Material
+    </string>
+    <string name="medicalText">
+        Text Of Medical Emergency
+    </string>
+    <string name="disasterText">
+        Text Of Natural Disaster
+    </string>
+    <string name="signalingText">
+        Text Of Signal for Help
+    </string>
+    <string name="absorbText">
+        Text Of Take a Hit
+    </string>
+    <string name="disarmText">
+        Text Of Disarm Opponent
+    </string>
+    <string name="shieldText">
+        Text Of Ballistic Shield
+    </string>
+    <string name="weaponText">
+        Text Of Improvised Weapon
+    </string>
+    <string name="offenseText">
+        Text Of Offensive Action
+    </string>
+    <string name="defenseText">
+        Text Of Protective Action
+    </string>
+    <string name="weaknessText">
+        Text Of Shooter Weakness
+    </string>
+</resources>

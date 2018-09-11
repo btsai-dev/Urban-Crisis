@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    File: drawer_view.xml
+    Purpose: This file details the xml data necessary for the elements of the navigational bar. Each
+    element contains a unique id, an icon, and a title.
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:title="Main">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_main"
+                    android:icon="@drawable/main"
+                    android:title="@string/main"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Run">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_trouble"
+                    android:icon="@drawable/trouble"
+                    android:title="@string/trouble" />
+                <item
+                    android:id="@+id/nav_fire"
+                    android:icon="@drawable/fire"
+                    android:title="@string/fire" />
+                <item
+                    android:id="@+id/nav_shooter"
+                    android:icon="@drawable/shooter"
+                    android:title="@string/shooter" />
+                <item
+                    android:id="@+id/nav_riot"
+                    android:icon="@drawable/riot"
+                    android:title="@string/riot" />
+                <item
+                    android:id="@+id/nav_train"
+                    android:icon="@drawable/train"
+                    android:title="@string/train" />
+                <item
+                    android:id="@+id/nav_ship"
+                    android:icon="@drawable/ship"
+                    android:title="@string/ship" />
+                <item
+                    android:id="@+id/nav_bombing"
+                    android:icon="@drawable/bombing"
+                    android:title="@string/bombing" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Hide">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_avoid"
+                    android:icon="@drawable/avoid"
+                    android:title="@string/avoid" />
+                <item
+                    android:id="@+id/nav_barricade"
+                    android:icon="@drawable/barricade"
+                    android:title="@string/barricade" />
+                <item
+                    android:id="@+id/nav_disease"
+                    android:icon="@drawable/disease"
+                    android:title="@string/disease" />
+                <item
+                    android:id="@+id/nav_hazmat"
+                    android:icon="@drawable/hazmat"
+                    android:title="@string/hazmat" />
+                <item
+                    android:id="@+id/nav_medical"
+                    android:icon="@drawable/medical"
+                    android:title="@string/medical" />
+                <item
+                    android:id="@+id/nav_disaster"
+                    android:icon="@drawable/disaster"
+                    android:title="@string/disaster" />
+                <item
+                    android:id="@+id/nav_signaling"
+                    android:icon="@drawable/signaling"
+                    android:title="@string/signaling" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Fight">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_disarm"
+                    android:icon="@drawable/disarm"
+                    android:title="@string/disarm" />
+                <item
+                    android:id="@+id/nav_shield"
+                    android:icon="@drawable/shield"
+                    android:title="@string/shield" />
+                <item
+                    android:id="@+id/nav_weapon"
+                    android:icon="@drawable/weapon"
+                    android:title="@string/weapon" />
+                <item
+                    android:id="@+id/nav_offense"
+                    android:icon="@drawable/offense"
+                    android:title="@string/offense" />
+                <item
+                    android:id="@+id/nav_defense"
+                    android:icon="@drawable/defense"
+                    android:title="@string/defense" />
+                <item
+                    android:id="@+id/nav_weakness"
+                    android:icon="@drawable/weakness"
+                    android:title="@string/weakness" />
+                <item
+                    android:id="@+id/nav_absorb"
+                    android:icon="@drawable/absorb"
+                    android:title="@string/absorb" />
+            </group>
+        </menu>
+    </item>
+</menu>
