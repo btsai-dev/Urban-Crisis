@@ -25,44 +25,14 @@
     <string name="defense">Protective Action</string>
     <string name="weakness">Shooter Weakness</string>
     <!-- These are actual Menu Text -->
-    <string name="mainText">
-        <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>\n\n
-        This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.\n\n
-        The most important parts of the app are in <b>bold</b>, so if you don\'t have time to read through everything, you\'ll know what\'s the important stuff. Also make sure to take a look at the pictures, as they may help more than words.\n\n
-        This app references the following:\n
-        - FM 3-3: Chemical and Biological Contamination Avoidance\n
-        - FM 3-3.1: Nuclear Contamination Avoidance\n
-        - FM 3-5: NBC Decontamination\n
-        - FM 4-25.11: First Aid\n
-        - FM 12-80: Kill, or Get Killed\n
-        - FM 21-10: Field Hygiene and Sanitation\n
-        - FM 21-60: Visual Signals\n
-        - FM 21-150: Combatives\n
-        - FM 55-501: Marine Crewman\'s Handbook\n
-        - Other texts\n\n
-        Hopefully you\'ll never encounter any of the situations this app deals with, but if you do, don\'t worry, you\'ve increased your survival chance by a statistically insignificant amount! :D\n\n
-        Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!\n\n
-        This app was created for the Congressional App Challenge.
-    </string>
+    
     <string name="bombingText">
         Text Of Sudden Bombing
     </string>
     <string name="troubleText">
         Text Of Car Trouble
     </string>
-    <string name="fireText">
-			<b>The fire classes are based on the United States fire classification system.</b>\n
-      There are six classes of fires:\n
-      Class A: Fire consists of <b>ordinary combustibles such as wood, paper, and fabric.</b>\n
-      Class B: Fire consists of <b>flammable or combustible liquids or gases.</b>\n
-			Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sustainable Chain Reaction to keep the fire burning. There are usually six types of fire extinguisher equipment at hand:\n
-			- Water Extinguishers: One of the classic and cost-effective ways to fight fires, they spray water to decrease Heat and soak into the material, if applicable. <b>They have a red label, and should be used to fight Class A fires, but NOT Class B. Class C, or Class K fires.</b>\n
-			- Foam Extinguishers: They extinguish by eliminating the Oxygen element. <b>They have a cream label, and should be used to fight Class A and Class B fires.</b>\n
-      - Carbon Dioxide Extinguishers: They extinguish fires by eliminating the Oxygen and Heat elements of a fire. <b>They have a black label, and should be used to fight Class B or Class C fires.</b>
-      - Dry Chemical Extinguishers: They extinguish fires by eliminating the Sustainable Chain Reaction element of a fire. <b>They have a blue label, and should be used for Class B and Class C fires. However, some may also be suitable for Class A fires, but make sure that the fire gets fully extinguished.</b>\n
-      - Wet Chemical Extinguishers: They extinguish fires by eliminating the Heat and Sustainable Chain Reaction elements of a fire. <b>They have a yellow label, and while they are primarily designed to extinguish Class K fires, they can also be used to extinguish Class A and Class B fires.</b>\n
-      - Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n
-    </string>
+    
     <string name="shooterText">
         Text Of Mass Shooting
     </string>
@@ -116,5 +86,44 @@
     </string>
     <string name="weaknessText">
         Text Of Shooter Weakness
+    </string>
+	<string name="fireText">
+			<b>The fire classes are based on the United States fire classification system.</b>\n
+			<b>The fire classes are based on the United States fire classification system.</b>\n
+			<b>FIRE CLASSIFICATION</b>\n
+      There are six classes of fires:\n
+			<b>Class A</b>: Fire consists of <b>ordinary combustibles such as wood, paper, and fabric</b>. This is usually the most common and easiest fire to put out.\n
+      <b>Class B</b>: Fire consists of <b>flammable or combustible liquid or gas</b>. Never use water on these, as water may spread the fire and worsen the situation.\n
+			<b>Class C</b>: Fire consists of <b>potentially energized electrical equipment</b>. Never use water or foam on these, as electricity may travel through the conductive agent into your body, risking injury or death. In Europe, this is no longer recognized as a class as electricity is not the source of the fire. If the electrical current is disabled, then the fire may be fought without risking accidental electrocution.\n
+			<b>Class D</b>: Fire consists of <b>combustible metals, especially alkali metals</b>. Different metals have different methods of control; while water may work on one metal, it may cause further chemical reactions for other metals.\n
+			<b>Class K</b>: Fire consists of <b>unsaturated cooking oils</b>. This is actually a subcategory of Class B fires, and can be treated as such. The central difference is that water mist (but not a solid stream of water) can be used to extinguish the fire.\n
+			<b>FIRE SUPPRESSION EQUIPMENT</b>\n
+			Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sustainable Chain Reaction to keep the fire burning. There are usually six types of fire extinguisher equipment at hand:\n
+			- Water Extinguishers: One of the classic and cost-effective ways to fight fires, they spray water to decrease Heat and soak into the material, if applicable. <b>They have a red label, and should be used to fight Class A fires, but NOT Class B. Class C, or Class K fires</b>.\n
+			- Foam Extinguishers: They extinguish by eliminating the Oxygen element. <b>They have a cream label, and should be used to fight Class A and Class B fires, but never Class C fires</b>.\n
+      - Carbon Dioxide Extinguishers: They extinguish fires by eliminating the Oxygen and Heat elements of a fire. <b>They have a black label, and should be used to fight Class B or Class C fires.</b>
+      - Dry Chemical Extinguishers: They extinguish fires by eliminating the Sustainable Chain Reaction element of a fire. <b>They have a blue label, and should be used for Class B and Class C fires. However, some may also be suitable for Class A fires, but make sure that the fire gets fully extinguished.</b>\n
+      - Wet Chemical Extinguishers: They extinguish fires by eliminating the Heat and Sustainable Chain Reaction elements of a fire. <b>They have a yellow label, and while they are primarily designed to extinguish Class K fires, they can also be used to extinguish Class A and Class B fires.</b>\n
+			- Dry Powder Extinguishers: They extinguish fires by eliminating the Heat or Oxygen element. <b>They have a blue label, and are intended for Class D fires only.</b>
+      - Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n
+    </string>
+<string name="mainText">
+        <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>\n\n
+        This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.\n\n
+        The most important parts of the app are in <b>bold</b>, so if you don\'t have time to read through everything, you\'ll know what\'s the important stuff. Also make sure to take a look at the pictures, as they may help more than words.\n\n
+        This app references the following:\n
+        - FM 3-3: Chemical and Biological Contamination Avoidance\n
+        - FM 3-3.1: Nuclear Contamination Avoidance\n
+        - FM 3-5: NBC Decontamination\n
+        - FM 4-25.11: First Aid\n
+        - FM 12-80: Kill, or Get Killed\n
+        - FM 21-10: Field Hygiene and Sanitation\n
+        - FM 21-60: Visual Signals\n
+        - FM 21-150: Combatives\n
+        - FM 55-501: Marine Crewman\'s Handbook\n
+        - Other texts\n\n
+        Hopefully you\'ll never encounter any of the situations this app deals with, but if you do, don\'t worry, you\'ve increased your survival chance by a statistically insignificant amount! :D\n\n
+        Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!\n\n
+        This app was created for the Congressional App Challenge.
     </string>
 </resources>
