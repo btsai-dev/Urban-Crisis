@@ -1,6 +1,5 @@
 <resources>
     <!-- These are Menu Titles -->
-    <!-- EXPERIMENTAL COMMENT -->
     <string name="app_name">RHF Manual</string>
     <string name="bombing">Sudden Bombing</string>
     <string name="trouble">Car Trouble</string>
