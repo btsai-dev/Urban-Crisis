@@ -1,0 +1,68 @@
+<!--
+	## Section 0: Main
+    Introduction: @string/L0_introduction
+	
+	### Section 0: Main
+	- Introduction: @string/L0_introduction
+	- References and Credit: @string/references
+
+	### Section 1: Avoiding Harm
+	- Active Shooters: @string/active
+	- Disease and Infection: @string/disease
+	- Escaping a Multistory: @string/escaping
+	- Explosive Devices: @string/explosive
+	- Medical Treatment: @string/medical
+	- Minimizing Injury: @string/minimizing
+	- NBC Attacks: @string/nbc1
+	- NBC Decontamination: @string/nbc2
+	- Violent Riot: @string/violent
+	- Transportation Troubles: @string/transportation
+
+	### Section 2: Clandestine Activities
+	- Avoiding Detection: @string/avoiding
+	- Barricading Techniques: @string/barricading
+	- Circumvent Security: @string/circumvent
+
+	### Section 3: Fighting Back
+	- Basic Combatives: @string/basic
+	- Disarming Opponents: @string/disarming
+	- Firefighting: @string/firefighting
+	- Improvised Weapons: @string/improvised
+	- Restraining Devices: @string/restraining
+
+	### Section 4: Getting Help
+	- Codes: @string/codes
+	- Signals: @string/signals
+	- Telecommunications: @string/telecommunications
+-->
+
+<resources>
+<string name="introductionText">
+"<b><big>INTRODUCTION</big></b>
+    <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>
+
+    This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.
+
+    The most important parts of the app are in <b>bold</b>, so if you don't have time to read through everything, you'll know what's the important stuff. Also make sure to take a look at the pictures, as they may help more than words.
+
+    This app references the following:
+<ul>
+<li>FM 3-3: Chemical and Biological Contamination Avoidance</li>
+<li>FM 3-3.1: Nuclear Contamination Avoidance</li>
+<li>FM 3-5: NBC Decontamination</li>
+<li>FM 4-25.11: First Aid</li>
+<li>FM 12-80: Kill, or Get Killed</li>
+<li>FM 21-10: Field Hygiene and Sanitation</li>
+<li>FM 21-60: Visual Signals</li>
+<li>FM 21-150: Combatives</li>
+<li>FM 55-501: Marine Crewman's Handbook</li>
+<li>Other texts</li>
+</ul>
+    Hopefully you'll never encounter any of the situations this app deals with, but if you do, don't worry, you've increased your survival chance by a statistically insignificant amount! :D
+
+    Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!
+
+    This app was created for the Congressional App Challenge.
+    "
+</string>
+</resources>

@@ -1,6 +1,5 @@
 package com.example.godonan.drawertest;
 
-import android.annotation.SuppressLint;
 import android.content.pm.ActivityInfo;
 import android.os.Build;
 import android.support.v4.app.Fragment;
@@ -68,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
     @SuppressWarnings("deprecation")
     public static Spanned fromTheHtml(String html) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+        if (Build.vERSION.SDK_INT >= Build.vERSION_CODES.N) {
             return Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY);
         } else {
             return Html.fromHtml(html);
@@ -98,57 +97,55 @@ public class MainActivity extends AppCompatActivity {
                 int id = Integer.parseInt(bundle.getString("ID"));
                 switch (id) {
                     case R.id.introductionID:
-                        return inflater.inflate(R.layout.introduction, container, false);
-                        /**
+                        return inflater.inflate(R.layout.v0_introduction, container, false);
                     case R.id.referencesID:
-                        return inflater.inflate(R.layout.references, container, false);
+                        return inflater.inflate(R.layout.v0_references, container, false);
                     case R.id.activeID:
-                        return inflater.inflate(R.layout.active, container, false);
+                        return inflater.inflate(R.layout.v1_active, container, false);
                     case R.id.diseaseID:
-                        return inflater.inflate(R.layout.disease, container, false);
+                        return inflater.inflate(R.layout.v1_disease, container, false);
                     case R.id.escapingID:
-                        return inflater.inflate(R.layout.escaping, container, false);
+                        return inflater.inflate(R.layout.v1_escaping, container, false);
                     case R.id.explosiveID:
-                        return inflater.inflate(R.layout.explosive, container, false);
+                        return inflater.inflate(R.layout.v1_explosive, container, false);
                     case R.id.medicalID:
-                        return inflater.inflate(R.layout.medical, container, false);
+                        return inflater.inflate(R.layout.v1_medical, container, false);
                     case R.id.minimizingID:
-                        return inflater.inflate(R.layout.minimizing, container, false);
+                        return inflater.inflate(R.layout.v1_minimizing, container, false);
                     case R.id.nbc1ID:
-                        return inflater.inflate(R.layout.nbc1, container, false);
+                        return inflater.inflate(R.layout.v1_nbc1, container, false);
                     case R.id.nbc2ID:
-                        return inflater.inflate(R.layout.nbc2, container, false);
+                        return inflater.inflate(R.layout.v1_nbc2, container, false);
                     case R.id.transportationID:
-                        return inflater.inflate(R.layout.transportation, container, false);
+                        return inflater.inflate(R.layout.v1_transportation, container, false);
                     case R.id.violentID:
-                        return inflater.inflate(R.layout.violent, container, false);
+                        return inflater.inflate(R.layout.v1_violent, container, false);
                     case R.id.avoidingID:
-                        return inflater.inflate(R.layout.avoiding, container, false);
+                        return inflater.inflate(R.layout.v2_avoiding, container, false);
                     case R.id.barricadingID:
-                        return inflater.inflate(R.layout.barricading, container, false);
+                        return inflater.inflate(R.layout.v2_barricading, container, false);
                     case R.id.circumventID:
-                        return inflater.inflate(R.layout.circumvent, container, false);
+                        return inflater.inflate(R.layout.v2_circumvent, container, false);
                     case R.id.basicID:
-                        return inflater.inflate(R.layout.basic, container, false);
+                        return inflater.inflate(R.layout.v3_basic, container, false);
                     case R.id.disarmingID:
-                        return inflater.inflate(R.layout.disarming, container, false);
+                        return inflater.inflate(R.layout.v3_disarming, container, false);
                     case R.id.firefightingID:
-                        return inflater.inflate(R.layout.firefighting, container, false);
+                        return inflater.inflate(R.layout.v3_firefighting, container, false);
                     case R.id.improvisedID:
-                        return inflater.inflate(R.layout.improvised, container, false);
+                        return inflater.inflate(R.layout.v3_improvised, container, false);
                     case R.id.restrainingID:
-                        return inflater.inflate(R.layout.restraining, container, false);
+                        return inflater.inflate(R.layout.v3_restraining, container, false);
                     case R.id.codesID:
-                        return inflater.inflate(R.layout.codes, container, false);
+                        return inflater.inflate(R.layout.v4_codes, container, false);
                     case R.id.signalsID:
-                        return inflater.inflate(R.layout.signals, container, false);
+                        return inflater.inflate(R.layout.v4_signals, container, false);
                     case R.id.telecommunicationsID:
-                        return inflater.inflate(R.layout.telecommunications, container, false);
-                        */
+                        return inflater.inflate(R.layout.v4_telecommunications, container, false);
                 }
-                return inflater.inflate(R.layout.introduction, container, false);
+                return inflater.inflate(R.layout.v0_introduction, container, false);
             }
-            return inflater.inflate(R.layout.introduction, container, false);
+            return inflater.inflate(R.layout.v0_introduction, container, false);
         }
     }
 
@@ -156,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
     public static class MainFragment extends Fragment {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-            return inflater.inflate(R.layout.introduction, container, false);
+            return inflater.inflate(R.layout.v0_introduction, container, false);
         }
     }
 }

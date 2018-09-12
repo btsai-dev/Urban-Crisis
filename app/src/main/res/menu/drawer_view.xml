@@ -5,10 +5,10 @@
     element contains a unique id, an icon, and a title.
 
 	## Section 0: Main
-    Introduction: @drawable/introduction
+    Introduction: @drawable/L0_introduction
 	
 	### Section 0: Main
-	* Introduction: @drawable/introduction
+	* Introduction: @drawable/L0_introduction
 	* References and Credit: @drawable/references
 
 	### Section 1: Avoiding Harm
