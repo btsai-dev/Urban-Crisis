@@ -4,16 +4,51 @@
     Purpose: This file details the xml data necessary for the elements of the navigational bar. Each
     element contains a unique id, an icon, and a title.
 
-  
+	## Section 0: Main
+    Introduction: @drawable/introduction
+	
+	### Section 0: Main
+	* Introduction: @drawable/introduction
+	* References and Credit: @drawable/references
+
+	### Section 1: Avoiding Harm
+	* Active Shooters: @drawable/active
+	* Disease and Infection: @drawable/disease
+	* Escaping a Multistory: @drawable/escaping
+	- Explosive Devices: @drawable/explosive
+	* Medical Treatment: @drawable/medical
+	* Minimizing Injury: @drawable/minimizing
+	* NBC Attacks: @drawable/nbc1
+	* NBC Decontamination: @drawable/nbc2
+	* Violent Riot: @drawable/violent
+	* Transportation Troubles: @drawable/transportation
+
+	### Section 2: Clandestine Activities
+	* Avoiding Detection: @drawable/avoiding
+	* Barricading Techniques: @drawable/barricading
+	* Circumvent Security: @drawable/circumvent
+
+	### Section 3: Fighting Back
+	* Basic Combatives: @drawable/basic
+	* Disarming Opponents: @drawable/disarming
+	* Firefighting: @drawable/firefighting
+	* Improvised Weapons: @drawable/improvised
+	* Restraining Devices: @drawable/restraining
+
+	### Section 4: Getting Help
+	- Codes: @drawable/codes
+	- Signals: @drawable/signals
+	- Telecommunications: @drawable/telecommunications
+
 -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:title="@string/category0">
         <menu>
             <group>
                 <item
-                    android:id="@+id/mainID"
-                    android:icon="@drawable/main"
-                    android:title="@string/main"/>
+                    android:id="@+id/introductionID"
+                    android:icon="@drawable/introduction"
+                    android:title="@string/introduction"/>
                 <item
                     android:id="@+id/referencesID"
                     android:icon="@drawable/references"
@@ -61,7 +96,7 @@
                     android:icon="@drawable/transportation"
                     android:title="@string/transportation" />
                 <item
-                    android:id="@+id/violent"
+                    android:id="@+id/violentID"
                     android:icon="@drawable/violent"
                     android:title="@string/violent" />
             </group>

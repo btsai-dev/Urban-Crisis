@@ -13,7 +13,7 @@ A manual to prepare people for random emergency events and increase their chance
 - Minimizing Injury
 - NBC Attacks
 - NBC Decontamination
-- Public Riot
+- Violent Rioting
 - Transportation Troubles
 
 ### Section 2: Clandestine Activities
@@ -24,8 +24,8 @@ A manual to prepare people for random emergency events and increase their chance
 ### Section 3: Fighting Back
 - Basic Combatives
 - Disarming Opponents
-- Improvised Weapons
 - Fighting Fires
+- Improvised Weapons
 - Restraining Devices
 
 ### Section 4: Getting Help

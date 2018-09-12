@@ -94,54 +94,56 @@ public class MainActivity extends AppCompatActivity {
             if (bundle != null) {
                 int id = Integer.parseInt(bundle.getString("ID"));
                 switch (id) {
-                    case R.id.nav_main:
-                        return inflater.inflate(R.layout.main_fragment, container, false);
-                    case R.id.nav_absorb:
-                        return inflater.inflate(R.layout.absorb_fragment, container, false);
-                    case R.id.nav_avoid:
-                        return inflater.inflate(R.layout.avoid_fragment, container, false);
-                    case R.id.nav_barricade:
-                        return inflater.inflate(R.layout.barricade_fragment, container, false);
-                    case R.id.nav_bombing:
-                        return inflater.inflate(R.layout.bombing_fragment, container, false);
-                    case R.id.nav_defense:
-                        return inflater.inflate(R.layout.defense_fragment, container, false);
-                    case R.id.nav_disarm:
-                        return inflater.inflate(R.layout.disarm_fragment, container, false);
-                    case R.id.nav_disaster:
-                        return inflater.inflate(R.layout.disaster_fragment, container, false);
-                    case R.id.nav_disease:
-                        return inflater.inflate(R.layout.disease_fragment, container, false);
-                    case R.id.nav_fire:
-                        return inflater.inflate(R.layout.fire_fragment, container, false);
-                    case R.id.nav_hazmat:
-                        return inflater.inflate(R.layout.hazmat_fragment, container, false);
-                    case R.id.nav_medical:
-                        return inflater.inflate(R.layout.medical_fragmet, container, false);
-                    case R.id.nav_offense:
-                        return inflater.inflate(R.layout.offense_fragment, container, false);
-                    case R.id.nav_riot:
-                        return inflater.inflate(R.layout.riot_fragment, container, false);
-                    case R.id.nav_shield:
-                        return inflater.inflate(R.layout.shield_fragment, container, false);
-                    case R.id.nav_ship:
-                        return inflater.inflate(R.layout.ship_fragment, container, false);
-                    case R.id.nav_shooter:
-                        return inflater.inflate(R.layout.shooter_fragment, container, false);
-                    case R.id.nav_signaling:
-                        return inflater.inflate(R.layout.signaling_fragment, container, false);
-                    case R.id.nav_train:
-                        return inflater.inflate(R.layout.train_fragment, container, false);
-                    case R.id.nav_trouble:
-                        return inflater.inflate(R.layout.trouble_fragment, container, false);
-                    case R.id.nav_weakness:
-                        return inflater.inflate(R.layout.weakness_fragment, container, false);
-                    case R.id.nav_weapon:
-                        return inflater.inflate(R.layout.weapon_fragment, container, false);
+                    case R.id.introductionID:
+                        return inflater.inflate(R.layout.introduction, container, false);
+                    case R.id.referencesID:
+                        return inflater.inflate(R.layout.references, container, false);
+                    case R.id.activeID:
+                        return inflater.inflate(R.layout.active, container, false);
+                    case R.id.diseaseID:
+                        return inflater.inflate(R.layout.disease, container, false);
+                    case R.id.escapingID:
+                        return inflater.inflate(R.layout.escaping, container, false);
+                    case R.id.explosiveID:
+                        return inflater.inflate(R.layout.explosive, container, false);
+                    case R.id.medicalID:
+                        return inflater.inflate(R.layout.medical, container, false);
+                    case R.id.minimizingID:
+                        return inflater.inflate(R.layout.minimizing, container, false);
+                    case R.id.nbc1ID:
+                        return inflater.inflate(R.layout.nbc1, container, false);
+                    case R.id.nbc2ID:
+                        return inflater.inflate(R.layout.nbc2, container, false);
+                    case R.id.transportationID:
+                        return inflater.inflate(R.layout.transportation, container, false);
+                    case R.id.violentID:
+                        return inflater.inflate(R.layout.violent, container, false);
+                    case R.id.avoidingID:
+                        return inflater.inflate(R.layout.avoiding, container, false);
+                    case R.id.barricadingID:
+                        return inflater.inflate(R.layout.barricading, container, false);
+                    case R.id.circumventID:
+                        return inflater.inflate(R.layout.circumvent, container, false);
+                    case R.id.basicID:
+                        return inflater.inflate(R.layout.basic, container, false);
+                    case R.id.disarmingID:
+                        return inflater.inflate(R.layout.disarming, container, false);
+                    case R.id.firefightingID:
+                        return inflater.inflate(R.layout.firefighting, container, false);
+                    case R.id.improvisedID:
+                        return inflater.inflate(R.layout.improvised, container, false);
+                    case R.id.restrainingID:
+                        return inflater.inflate(R.layout.restraining, container, false);
+                    case R.id.codesID:
+                        return inflater.inflate(R.layout.codes, container, false);
+                    case R.id.signalsID:
+                        return inflater.inflate(R.layout.signals, container, false);
+                    case R.id.telecommunicationsID:
+                        return inflater.inflate(R.layout.telecommunications, container, false);
                 }
-                return inflater.inflate(R.layout.main_fragment, container, false);
+                return inflater.inflate(R.layout.introduction, container, false);
             }
-            return inflater.inflate(R.layout.main_fragment, container, false);
+            return inflater.inflate(R.layout.introduction, container, false);
         }
     }
 

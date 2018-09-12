@@ -1,4 +1,44 @@
+<!--
+	## Section 0: Main
+    Introduction: @string/introduction
+	
+	### Section 0: Main
+	- Introduction: @string/introduction
+	- References and Credit: @string/references
+
+	### Section 1: Avoiding Harm
+	- Active Shooters: @string/active
+	- Disease and Infection: @string/disease
+	- Escaping a Multistory: @string/escaping
+	- Explosive Devices: @string/explosive
+	- Medical Treatment: @string/medical
+	- Minimizing Injury: @string/minimizing
+	- NBC Attacks: @string/nbc1
+	- NBC Decontamination: @string/nbc2
+	- Violent Riot: @string/violent
+	- Transportation Troubles: @string/transportation
+
+	### Section 2: Clandestine Activities
+	- Avoiding Detection: @string/avoiding
+	- Barricading Techniques: @string/barricading
+	- Circumvent Security: @string/circumvent
+
+	### Section 3: Fighting Back
+	- Basic Combatives: @string/basic
+	- Disarming Opponents: @string/disarming
+	- Firefighting: @string/firefighting
+	- Improvised Weapons: @string/improvised
+	- Restraining Devices: @string/restraining
+
+	### Section 4: Getting Help
+	- Codes: @string/codes
+	- Signals: @string/signals
+	- Telecommunications: @string/telecommunications
+-->
+
 <resources>
+	
+	
 	<!-- These are Menu Titles -->
 	<string name="app_name">RHF Manual</string>
 	
@@ -12,7 +52,7 @@
 	<string name="escaping">Escaping a Multistory</string>
 	<string name="explosive">Explosive Devices</string>
     <string name="medical">Medical Treatment</string>
-    <string name="minimizing">Minimizing Injury</string>
+	<string name="minimizing">Minimizing Injury</string>
     <string name="nbc1">NBC Attacks</string>
 	<string name="nbc2">NBC Decontamination</string>
     <string name="transportation">Transportation Troubles</string>
@@ -145,24 +185,30 @@
         This app was created for the Congressional App Challenge.
     </string>
 	<string name="firefightingText">
-			<b>The fire classes are based on the United States fire classification system.</b>\n
-			<b>The fire classes are based on the United States fire classification system.</b>\n
-			<b>FIRE CLASSIFICATION</b>\n
+		<b>The fire classes are based on the United States fire classification system.</b>\n
+		<b>The fire classes are based on the United States fire classification system.</b>\n\n
+		<b>FIRE CLASSIFICATION</b>\n
       There are six classes of fires:\n
-			<b>Class A</b>: Fire consists of <b>ordinary combustibles such as wood, paper, and fabric</b>. This is usually the most common and easiest fire to put out.\n
-      <b>Class B</b>: Fire consists of <b>flammable or combustible liquid or gas</b>. Never use water on these, as water may spread the fire and worsen the situation.\n
-			<b>Class C</b>: Fire consists of <b>potentially energized electrical equipment</b>. Never use water or foam on these, as electricity may travel through the conductive agent into your body, risking injury or death. In Europe, this is no longer recognized as a class as electricity is not the source of the fire. If the electrical current is disabled, then the fire may be fought without risking accidental electrocution.\n
-			<b>Class D</b>: Fire consists of <b>combustible metals, especially alkali metals</b>. Different metals have different methods of control; while water may work on one metal, it may cause further chemical reactions for other metals.\n
-			<b>Class K</b>: Fire consists of <b>unsaturated cooking oils</b>. This is actually a subcategory of Class B fires, and can be treated as such. The central difference is that water mist (but not a solid stream of water) can be used to extinguish the fire.\n
-			<b>FIRE SUPPRESSION EQUIPMENT</b>\n
-			Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sustainable Chain Reaction to keep the fire burning. There are usually six types of fire extinguisher equipment at hand:\n
-			- Water Extinguishers: One of the classic and cost-effective ways to fight fires, they spray water to decrease Heat and soak into the material, if applicable. <b>They have a red label, and should be used to fight Class A fires, but NOT Class B. Class C, or Class K fires</b>.\n
-			- Foam Extinguishers: They extinguish by eliminating the Oxygen element. <b>They have a cream label, and should be used to fight Class A and Class B fires, but never Class C fires</b>.\n
-      - Carbon Dioxide Extinguishers: They extinguish fires by eliminating the Oxygen and Heat elements of a fire. <b>They have a black label, and should be used to fight Class B or Class C fires.</b>
-      - Dry Chemical Extinguishers: They extinguish fires by eliminating the Sustainable Chain Reaction element of a fire. <b>They have a blue label, and should be used for Class B and Class C fires. However, some may also be suitable for Class A fires, but make sure that the fire gets fully extinguished.</b>\n
-      - Wet Chemical Extinguishers: They extinguish fires by eliminating the Heat and Sustainable Chain Reaction elements of a fire. <b>They have a yellow label, and while they are primarily designed to extinguish Class K fires, they can also be used to extinguish Class A and Class B fires.</b>\n
-			- Dry Powder Extinguishers: They extinguish fires by eliminating the Heat or Oxygen element. <b>They have a blue label, and are intended for Class D fires only.</b>
-      - Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n
+		<b>Class A</b>: Fire consists of <b>ordinary combustibles such as wood, paper, and fabric</b>. This is usually the most common and easiest fire to put out.\n
+		<b>Class B</b>: Fire consists of <b>flammable or combustible liquid or gas</b>. Never use water on these, as water may spread the fire and worsen the situation.\n
+		<b>Class C</b>: Fire consists of <b>potentially energized electrical equipment</b>. Never use water or foam on these, as electricity may travel through the conductive agent into your body, risking injury or death. In Europe, this is no longer recognized as a class as electricity is not the source of the fire. If the electrical current is disabled, then the fire may be fought without risking accidental electrocution.\n
+		<b>Class D</b>: Fire consists of <b>combustible metals, especially alkali metals</b>. Different metals have different methods of control; while water may work on one metal, it may cause further chemical reactions for other metals.\n
+		<b>Class K</b>: Fire consists of <b>unsaturated cooking oils</b>. This is actually a subcategory of Class B fires, and can be treated as such. The central difference is that water mist (but not a solid stream of water) can be used to extinguish the fire.\n\n
+		<b>FIRE SUPPRESSION EQUIPMENT</b>\n
+		Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sustainable Chain Reaction to keep the fire burning. There are usually six types of fire extinguisher equipment at hand:\n
+		- Water Extinguishers: One of the classic and cost-effective ways to fight fires, they spray water to decrease Heat and soak into the material, if applicable. <b>They have a red label, and should be used to fight Class A fires, but NOT Class B. Class C, or Class K fires</b>.\n
+		- Foam Extinguishers: They extinguish by eliminating the Oxygen element. <b>They have a cream label, and should be used to fight Class A and Class B fires, but never Class C fires</b>.\n
+      	- Carbon Dioxide Extinguishers: They extinguish fires by eliminating the Oxygen and Heat elements of a fire. <b>They have a black label, and should be used to fight Class B or Class C fires.</b>
+      	- Dry Chemical Extinguishers: They extinguish fires by eliminating the Sustainable Chain Reaction element of a fire. <b>They have a blue label, and should be used for Class B and Class C fires. However, some (particularly the multipurpose extinguishers that you commonly see) may also be suitable for Class A fires, but make sure that the fire gets fully extinguished.</b>\n
+      	- Wet Chemical Extinguishers: They extinguish fires by eliminating the Heat and Sustainable Chain Reaction elements of a fire. <b>They have a yellow label, and while they are primarily designed to extinguish Class K fires, they can also be used to extinguish Class A and Class B fires.</b>\n
+		- Dry Powder Extinguishers: They extinguish fires by eliminating the Heat or Oxygen element. <b>They have a blue label, and are intended for Class D fires only.</b>
+      	- Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire.</b>\n\n
+		<b>USING AN EXTINGUISHER</b>
+		<b>Only fight a fire if the fire is very small and you know how to do it safely.</b> If you are going to use an extinguisher, makes sure you have an escape route behind you as you fight the flames.\n
+		First, using the proper extinguisher and starting from a safe distance away, put a hand on the neck of the extinguisher for stability. Then, <b>rip off the pin</b> to remove both the pin and the cable tie-looking tamper seal.\n
+		Then, <b>aim the hose of the extinguisher towards the base of the flames</b>. The flames themselves aren\'t solid, and if you aim at the flames themselves, the extinguishing agent will go right through the fire.\n
+		Once you\'re ready, <b>squeeze the top handle/lever</b>, which releases the extinguishing agent from the fire extinguisher.\n
+		Finally, while slowly moving forward, <b>sweep the nozzle from side to side until the fire is gone. Make sure to watch out for any reignitions when you\'re done.</b> You should have 30 to 60 seconds of water or 10 to 25 seconds of dry chemical.\n
     </string>
 	
 
