@@ -1,19 +1,19 @@
 <resources>
 <string name="referencesText">
-"<b><big>REFERENCES</big></b>
+    "   <b><big>REFERENCES</big></b>
     This app uses information and images from the following:
 <ul>
-<li>FM 3-3: Chemical and Biological Contamination Avoidance</li>
-<li>FM 3-3.1: Nuclear Contamination Avoidance</li>
-<li>FM 3-5: NBC Decontamination</li>
-<li>FM 4-25.11: First Aid</li>
-<li>FM 12-80: Kill, or Get Killed</li>
-<li>FM 21-10: Field Hygiene and Sanitation</li>
-<li>FM 21-60: Visual Signals</li>
-<li>FM 21-150: Combatives</li>
-<li>FM 3-25.150: Combatives</li>
-<li>FM 55-501: Marine Crewman's Handbook</li>
-<li>Other governmental texts</li>
+    <li>FM 3-3: Chemical and Biological Contamination Avoidance</li>
+    <li>FM 3-3.1: Nuclear Contamination Avoidance</li>
+    <li>FM 3-5: NBC Decontamination</li>
+    <li>FM 4-25.11: First Aid</li>
+    <li>FM 12-80: Kill, or Get Killed</li>
+    <li>FM 21-10: Field Hygiene and Sanitation</li>
+    <li>FM 21-60: Visual Signals</li>
+    <li>FM 21-150: Combatives</li>
+    <li>FM 3-25.150: Combatives</li>
+    <li>FM 55-501: Marine Crewman's Handbook</li>
+    <li>Other governmental texts</li>
 </ul>
     
 <b><big>CREDITS</big></b>
@@ -21,7 +21,7 @@
     
     App content originally inspired from FM 21-150.
     
-    Corona Labs for introducing to me the basic ideas and methods in app development and Android Studio for being the SDK where I put everything todgether.
+    Corona Labs for introducing to me the basic ideas and methodology in app development and Android Studio for being the SDK where I put everything todgether.
     
     Codeanywhere for allowing me to work on the project at school on my school-issued Chromebook when all other websites/extensions were blocked.
     

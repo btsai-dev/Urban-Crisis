@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                         int id = menuItem.getItemId();
                         mDrawerLayout.closeDrawers();
                         Fragment newFragment = new UniversalFragment();
-                        actionbar = getSupportActionBar();
+                        ActionBar actionbar = getSupportActionBar();
                         actionbar.setSubtitle(menuItem.getTitle());
                         
                         Bundle bundle = new Bundle();
@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
     @SuppressWarnings("deprecation")
     public static Spanned fromTheHtml(String html) {
-        if (Build.vERSION.SDK_INT >= Build.vERSION_CODES.N) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             return Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY);
         } else {
             return Html.fromHtml(html);
