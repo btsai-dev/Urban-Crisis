@@ -19,28 +19,38 @@ import android.support.v4.widget.DrawerLayout;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MainActivity extends AppCompatActivity {
-    private DrawerLayout mDrawerLayout;
 
+public class MainActivity extends AppCompatActivity {
+    // Create drawer layout
+    private DrawerLayout mDrawerLayout;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        // Basic creation data
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        
+        // Lock screen orientation to vertical only
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-
+        
+        // Prepare the fragment managers and transactions
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
-        MainFragment fragment = new MainFragment();
-        fragmentTransaction.add(R.id.content_frame, fragment);
-        fragmentTransaction.commit();
-
-        Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-        ActionBar actionbar = getSupportActionBar();
-        actionbar.setDisplayHomeAsUpEnabled(true);
-        actionbar.setHomeAsUpIndicator(R.drawable.ic_menu);
-        actionbar.setSubtitle("Main");
+        
+        MainFragment fragment = new MainFragment(); // create the default main fragment
+        fragmentTransaction.add(R.id.content_frame, fragment); // add the main fragment to content_frame (BUG CHECK THIS!)
+        fragmentTransaction.commit(); // commit fragment to the screen
+        
+        // Prepare the toolbars
+        Toolbar toolbar = findViewById(R.id.toolbar); // find the toolbar
+        setSupportActionBar(toolbar); // set the support action bar
+        
+        ActionBar actionbar = getSupportActionBar(); // extract the action bar
+        actionbar.setDisplayHomeAsUpEnabled(true); // enable the up button
+        actionbar.setHomeAsUpIndicator(R.drawable.ic_menu);   // set the up to open the navigation bar
+        actionbar.setSubtitle("Main"); // set up the subtitle as
+        
+        
         mDrawerLayout = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(
@@ -51,8 +61,12 @@ public class MainActivity extends AppCompatActivity {
                         int id = menuItem.getItemId();
                         mDrawerLayout.closeDrawers();
                         Fragment newFragment = new UniversalFragment();
+                        actionbar = getSupportActionBar();
+                        actionbar.setSubtitle(menuItem.getTitle());
+                        
                         Bundle bundle = new Bundle();
                         bundle.putString("ID", Integer.toString(id));
+                        
                         newFragment.setArguments(bundle);
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content_frame, newFragment);
@@ -82,7 +96,10 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    
+    public void changeBar(String name) {
+        ActionBar actionbar = getSupportActionBar();
+        actionbar.setSubtitle(name);
+    }
 
     public static class UniversalFragment extends Fragment {
         @Override
