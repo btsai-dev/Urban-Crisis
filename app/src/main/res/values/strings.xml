@@ -37,7 +37,6 @@
 -->
 
 <resources>
-	
 	<!-- These are Menu Titles -->
 	<string name="app_name">RHF Manual</string>
 	
@@ -73,5 +72,4 @@
     <string name="codes">Codes</string>
     <string name="signals">Signals</string>
     <string name="telecommunications">Telecommunications</string>
-
 </resources>
