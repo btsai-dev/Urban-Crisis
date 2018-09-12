@@ -37,7 +37,6 @@
 -->
 
 <resources>
-	<string name="test">472dp</string>
 	
 	<!-- These are Menu Titles -->
 	<string name="app_name">RHF Manual</string>
