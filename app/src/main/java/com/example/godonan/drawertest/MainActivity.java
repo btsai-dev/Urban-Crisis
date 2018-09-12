@@ -1,6 +1,7 @@
 package com.example.godonan.drawertest;
 
 import android.annotation.SuppressLint;
+import android.content.pm.ActivityInfo;
 import android.os.Build;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -26,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
@@ -96,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 switch (id) {
                     case R.id.introductionID:
                         return inflater.inflate(R.layout.introduction, container, false);
+                        /**
                     case R.id.referencesID:
                         return inflater.inflate(R.layout.references, container, false);
                     case R.id.activeID:
@@ -140,6 +144,7 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.signals, container, false);
                     case R.id.telecommunicationsID:
                         return inflater.inflate(R.layout.telecommunications, container, false);
+                        */
                 }
                 return inflater.inflate(R.layout.introduction, container, false);
             }
@@ -151,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
     public static class MainFragment extends Fragment {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-            return inflater.inflate(R.layout.main_fragment, container, false);
+            return inflater.inflate(R.layout.introduction, container, false);
         }
     }
 }

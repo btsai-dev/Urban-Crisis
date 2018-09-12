@@ -37,7 +37,7 @@
 -->
 
 <resources>
-	
+	<string name="test">472dp</string>
 	
 	<!-- These are Menu Titles -->
 	<string name="app_name">RHF Manual</string>
@@ -139,10 +139,6 @@
     
     <string name="disarmingText">
 		Text CONTENT disarmingText
-    </string>
-    
-    <string name="firefightingText">
-		Text CONTENT firefightingText
     </string>
     
     <string name="improvisedText">
