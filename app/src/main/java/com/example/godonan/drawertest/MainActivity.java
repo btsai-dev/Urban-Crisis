@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
         );
     }
 
-
     @SuppressWarnings("deprecation")
     public static Spanned fromTheHtml(String html) {
         if (Build.vERSION.SDK_INT >= Build.vERSION_CODES.N) {
@@ -73,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
             return Html.fromHtml(html);
         }
     }
-
 
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
@@ -84,10 +82,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void changeBar(String name) {
-        ActionBar actionbar = getSupportActionBar();
-        actionbar.setSubtitle(name);
-    }
+    
 
     public static class UniversalFragment extends Fragment {
         @Override

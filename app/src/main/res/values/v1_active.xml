@@ -1,6 +1,16 @@
 <resources>
 <string name="activeText">
-"<b><big>activeText</big></b>
+    "<b><big>INTRODUCTION</big></b>
+    
+    
+    <b><big>ESCAPING</big></b>
+    
+    
+    <b><big>COVER AND CONCEALMENT</big></b>
+    
+    
+    <b><big>DATA AND STATISTICS</big></b>
+    
 "
 </string>
 </resources>

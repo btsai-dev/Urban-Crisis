@@ -1,6 +1,12 @@
 <resources>
 <string name="diseaseText">
-"<b><big>diseaseText</big></b>
+    "<b><big>INTRODUCTION</big></b>
+    
+    <b><big>ATTACK VECTORS</big></b>
+    
+    <b><big>PREVENTION</big></b>
+    
+    <b><big>BODY DISPOSAL</big></b>
 "
 </string>
 </resources>

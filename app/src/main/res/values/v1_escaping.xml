@@ -1,6 +1,10 @@
 <resources>
 <string name="escapingText">
-"<b><big>escapingText</big></b>
+    "<b><big>INTRODUCTION</big></b>
+    
+    <b><big>NORMAL ESCAPE</big></b>
+    
+    <b><big>EMERGENCY METHODS</big></b>
 "
 </string>
 </resources>

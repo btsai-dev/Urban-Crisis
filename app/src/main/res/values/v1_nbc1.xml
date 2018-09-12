@@ -1,6 +1,12 @@
 <resources>
 <string name="nbc1Text">
-"<b><big>nbc1Text</big></b>
+    "<b><big>INTRODUCTION</big></b>
+    
+    <b><big>NUCLEAR ATTACKS</big></b>
+    
+    <b><big>BIOLOGICAL ATTACKS</big></b>
+    
+    <b><big>CHEMICAL ATTACKS</big></b>
 "
 </string>
 </resources>
