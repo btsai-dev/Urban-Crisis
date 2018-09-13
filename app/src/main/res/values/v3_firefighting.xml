@@ -1,6 +1,7 @@
 <resources>
 <string name="firefightingText">
 "<b>The fire classes are based on the United States fire classification system.</b>
+
 <b><big>FIRE CLASSIFICATION</big></b>
 
 There are six classes of fires:
@@ -31,7 +32,8 @@ Fire requires four things to operate effectively: Oxygen, Fuel, Heat, and a Sust
 <li>Dry Powder Extinguishers: They extinguish fires by eliminating the Heat or Oxygen element. <b>They have a blue label, and are intended for Class D fires only</b>.</li>
 
 <li>Fire Blanket: They extinguish fires eliminating the Oxygen element. <b>They are primarily designed to extinguish Class K fires, but can also be used to extinguish a person who is on fire</b>.</li>
-<b>USING AN EXTINGUISHER</b>
+
+	<b>USING AN EXTINGUISHER</b>
 </ul>
 	<b>Only fight a fire if the fire is very small and you know how to do it safely.</b> If you are going to use an extinguisher, makes sure you have an escape route behind you as you fight the flames.
 First, using the proper extinguisher and starting from a safe distance away, put a hand on the neck of the extinguisher for stability. Then, <b>rip off the pin</b> to remove both the pin and the cable tie-looking tamper seal.

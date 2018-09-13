@@ -1,10 +1,12 @@
 <resources>
 <string name="escapingText">
-    "<b><big>INTRODUCTION</big></b>
+    "   <b><big>INTRODUCTION</big></b>
     
-    <b><big>NORMAL ESCAPE</big></b>
-    
-    <b><big>EMERGENCY METHODS</big></b>
+    <b><big>STANDARD EVACUATION</big></b>
+
+    <b><big>DÜLFERSITZ METHOD</big></b>
+
+    <b><big>BED SHEET METHOD</big></b>
 "
 </string>
 </resources>

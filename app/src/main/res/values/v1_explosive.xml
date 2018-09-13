@@ -1,6 +1,14 @@
 <resources>
 <string name="explosiveText">
-"<b><big>explosiveText</big></b>
+    "   <b><big>INTRODUCTION</big></b>
+
+    <b><big>TYPES OF IEDS</big></b>
+
+    <b><big>IED IDENTIFICATION</big></b>
+
+    <b><big>SUICIDE BOMBERS</big></b>
+
+
 "
 </string>
 </resources>

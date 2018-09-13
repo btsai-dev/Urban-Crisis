@@ -1,6 +1,14 @@
 <resources>
 <string name="basicText">
-"<b><big>basicText</big></b>
+    "   <b><big>BODY VITAL AREAS</big></b>
+
+    <b><big>ANGLES OF ATTACK</big></b>
+
+    <b><big>DEFENSE AGAINST A KNIFE</big></b>
+
+    <b><big>SHORT AND EXTENDED STRIKES</big></b>
+
+    <b><big>KICKS</big></b>
 "
 </string>
 </resources>
