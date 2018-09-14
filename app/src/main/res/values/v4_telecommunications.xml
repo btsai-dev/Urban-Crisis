@@ -1,6 +1,10 @@
 <resources>
 <string name="telecommunicationsText">
-"<b><big>telecommunicationsText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>EMERGENCY RADIO FREQUENCIES</big></b>
+    
+    <b><big></big></b>
 "
 </string>
 </resources>

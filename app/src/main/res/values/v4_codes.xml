@@ -1,6 +1,14 @@
 <resources>
 <string name="codesText">
-"<b><big>TITLE</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>MORSE CODE</big></b>
+    
+    <b><big>APCO 10 CODES</big></b>
+    
+    <b><big>GROUND-TO-AIR EMERGENCY CODE</big></b>
+    
+    
 "
 </string>
 </resources>

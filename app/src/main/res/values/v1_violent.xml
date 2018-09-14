@@ -1,6 +1,12 @@
 <resources>
 <string name="violentText">
-"<b><big>violentText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>ESCAPING A RIOT</big></b>
+    
+    <b><big>RIOT CONTROL</big></b>
+    
+    <b><big>RIOT WEAPONS</big></b>
 "
 </string>
 </resources>

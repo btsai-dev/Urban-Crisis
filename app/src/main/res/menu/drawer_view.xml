@@ -113,10 +113,6 @@
                     android:id="@+id/barricadingID"
                     android:icon="@drawable/barricading"
                     android:title="@string/barricading" />
-                <item
-                    android:id="@+id/circumventID"
-                    android:icon="@drawable/circumvent"
-                    android:title="@string/circumvent" />
             </group>
         </menu>
     </item>

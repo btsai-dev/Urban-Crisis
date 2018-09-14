@@ -1,6 +1,8 @@
 <resources>
 <string name="barricadingText">
-"<b><big>barricadingText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>TECHNIQUES</big></b>
 "
 </string>
 </resources>

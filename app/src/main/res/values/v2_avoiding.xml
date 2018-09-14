@@ -1,6 +1,11 @@
 <resources>
 <string name="avoidingText">
-"<b><big>avoidingText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>STAYING SILENT</big></b>
+    
+    <b><big>HIDING OUT</big></b>
+
 "
 </string>
 </resources>

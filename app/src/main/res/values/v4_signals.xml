@@ -1,6 +1,12 @@
 <resources>
 <string name="signalsText">
-"<b><big>signalsText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>BODY SIGNALS</big></b>
+    
+    <b><big>PANEL SIGNALS</big></b>
+    
+    <b><big>AIRCRAFT VECTORING</big></b>
 "
 </string>
 </resources>

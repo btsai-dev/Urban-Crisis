@@ -1,6 +1,10 @@
 <resources>
 <string name="disarmingText">
-"<b><big>disarmingText</big></b>
+"   <b><big>INTRODUCTION</big></b>
+    
+    <b><big>KNIFE DISARM</big></b>
+    
+    <b><big>PISTOL DISARM</big></b>
 "
 </string>
 </resources>

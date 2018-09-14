@@ -51,9 +51,10 @@ public class MainActivity extends AppCompatActivity {
         actionbar.setSubtitle("Main"); // set up the subtitle as
         
         
-        mDrawerLayout = findViewById(R.id.drawer_layout);
-        NavigationView navigationView = findViewById(R.id.nav_view);
+        mDrawerLayout = findViewById(R.id.drawer_layout); // pull out the drawer_layout
+        NavigationView navigationView = findViewById(R.id.nav_view); // navigation menu extract
         navigationView.setNavigationItemSelectedListener(
+            // create a listener for each navigation view
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
                     public boolean onNavigationItemSelected(MenuItem menuItem) {
@@ -61,12 +62,16 @@ public class MainActivity extends AppCompatActivity {
                         int id = menuItem.getItemId();
                         mDrawerLayout.closeDrawers();
                         Fragment newFragment = new UniversalFragment();
+                        
+                        // alter the actionbar with the menu title
                         ActionBar actionbar = getSupportActionBar();
                         actionbar.setSubtitle(menuItem.getTitle());
                         
+                        // bundle towards the navigation view object
                         Bundle bundle = new Bundle();
                         bundle.putString("ID", Integer.toString(id));
                         
+                        // create the fragment, set its arguments to the bundle
                         newFragment.setArguments(bundle);
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content_frame, newFragment);
@@ -77,7 +82,8 @@ public class MainActivity extends AppCompatActivity {
                 }
         );
     }
-
+    
+    // extract html information
     @SuppressWarnings("deprecation")
     public static Spanned fromTheHtml(String html) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
@@ -86,7 +92,8 @@ public class MainActivity extends AppCompatActivity {
             return Html.fromHtml(html);
         }
     }
-
+    
+    // when the option is selected to 
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
@@ -96,17 +103,20 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    
     public void changeBar(String name) {
-        ActionBar actionbar = getSupportActionBar();
-        actionbar.setSubtitle(name);
+       
+        ActionBar actionbar = getSupportActionBar(); // get the support action bar
+        actionbar.setSubtitle(name); // set the subtitle name
     }
-
+    
+   
     public static class UniversalFragment extends Fragment {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-            Bundle bundle = getArguments();
-            if (bundle != null) {
-                int id = Integer.parseInt(bundle.getString("ID"));
+            Bundle bundle = getArguments(); // get bundle arguments
+            if (bundle != null) { // if the bundle exists
+                int id = Integer.parseInt(bundle.getString("ID")); // extract the ID
                 switch (id) {
                     case R.id.introductionID:
                         return inflater.inflate(R.layout.v0_introduction, container, false);
