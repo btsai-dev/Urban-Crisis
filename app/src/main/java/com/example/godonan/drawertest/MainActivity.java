@@ -146,8 +146,6 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.v2_avoiding, container, false);
                     case R.id.barricadingID:
                         return inflater.inflate(R.layout.v2_barricading, container, false);
-                    case R.id.circumventID:
-                        return inflater.inflate(R.layout.v2_circumvent, container, false);
                     case R.id.basicID:
                         return inflater.inflate(R.layout.v3_basic, container, false);
                     case R.id.disarmingID:

@@ -1,12 +1,14 @@
 <resources>
 <string name="signalsText">
 "   <b><big>INTRODUCTION</big></b>
-    
+    Non-auditory signals are useful if one is trying to communicate at long ranges, there is too much noise to give verbal commands, of if keeping silent is necessary. Body signals and panel signals can also be used to signal aircraft for rescue.
+
     <b><big>BODY SIGNALS</big></b>
-    
-    <b><big>PANEL SIGNALS</big></b>
-    
-    <b><big>AIRCRAFT VECTORING</big></b>
+    These body signals come from the United States Army Field Manual 21-60
 "
+</string>
+
+<string name="signalsText2">
+"   <b><big>PANEL SIGNALS</big></b>
 </string>
 </resources>

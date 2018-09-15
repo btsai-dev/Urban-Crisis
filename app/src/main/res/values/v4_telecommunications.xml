@@ -1,9 +1,31 @@
 <resources>
 <string name="telecommunicationsText">
 "   <b><big>INTRODUCTION</big></b>
-    
+    So-called 'amateur radio' (also called ham radio) is basically the use of radio for non-commercial use (e.g, you're doing it for fun or you're testing out wireless equipment). This is different normal commercial broadcasting radio, public safety usage, or two-way radio usage.
+
+    Because radio transmissions can travel to other countries, posing security risks, governments usually require operators to have a license. Every operator is given a call sign for identification, and are allowed to build or modify transmission equipment for personal use within the amateur radio spectrum. <b>You usually do not need a license to listen to radio transmissions.</b>
+
+    During times of emergency, cell phone service may be down (an example being the 9/11 attacks) and the increased traffic of people trying to communicate with each other may be too much for cellular stations to handle. However, you can still use amateur radio to communicate. Even if you don't have a transmitter/aren't licensed, you can still listen to emergency radio broadcasts.
+
     <b><big>EMERGENCY RADIO FREQUENCIES</big></b>
-    
-"
+    Please note that the following pertains only to the United States of America.
+    - 34.90, 163.4875: Used by the U.S. National Guard
+    = 39.46, 155.475: Used by local and state police
+    - 47.42: Used by the Red Cross
+    - 138.225: Used by FEMA of the U.S. government during disasters
+    - 154.28, 154.57, 154.295: Used by local fire departments
+    - 155.160: Used during search and rescue
+    - 156.75: Broadcasts maritime weather alerts
+    - 156.80: Maritime distress, must be monitored by all ships
+    - 162.40, 162.425, 162.45, 162.475, 162.50, 162.525, 162.55, 163.275: Used by NOAA for weather broadcasts.
+    - 163.5125: National disaster preparedness, used by the U.S. military
+    - 168.55: Used by U.S. government civilian agencies during emergencies and disasters
+    - 243.00: Used during military aviation emergencies
+    - 311.00, 319.40: Used by the U.S. Air Force
+    - 317.70, 317.80: Used by U.S. Coast Guard aviation
+    - 340.20: Used by U.S. Navy aviation
+    - 409.625: Used by the U.S. Department of State
+
+    There are a very large number of frequencies, much more than is what on this list. If you're looking for more, or if you don't see what you're looking for, I suggest you research on the Internet (prior to any emergency) the frequencies you need.
 </string>
 </resources>
