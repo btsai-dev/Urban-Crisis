@@ -27,6 +27,37 @@
                 android:paddingHorizontal="10dp"
                 android:paddingVertical="10dp"
                 android:text="@string/codesText" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/morse"/>
+
+            <TextView
+                android:id="@+id/codesLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/codesText1" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/apco10"/>
+
+            <TextView
+                android:id="@+id/codesLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/codesText2" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/codes1"/>
         </LinearLayout>
 
     </ScrollView>

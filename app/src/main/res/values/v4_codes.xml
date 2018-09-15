@@ -1,14 +1,20 @@
 <resources>
 <string name="codesText">
 "   <b><big>INTRODUCTION</big></b>
-    
-    <b><big>MORSE CODE</big></b>
-    
-    <b><big>APCO 10 CODES</big></b>
-    
-    <b><big>GROUND-TO-AIR EMERGENCY CODE</big></b>
-    
-    
+    Located on this page ar
+    <b><big>MORSE CODE</big></b>s
 "
+</string>
+
+<string name="codesText1">
+"
+    <b><big>APCO 10 CODES</big></b>
+    The APCO 10 codes are used in order to communicate quickly. These codes were developed so that personnel may quickly communicate situations using a minimum number of words.
+"
+</string>
+<string name="codesText2">
+"
+    <b><big>GROUND-TO-AIR EMERGENCY CODES</big></b>
+    The ground-to-air emergency codes are useful in signaling messages to search and rescue parties.
 </string>
 </resources>
