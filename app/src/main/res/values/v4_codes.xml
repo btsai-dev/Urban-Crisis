@@ -1,8 +1,6 @@
 <resources>
 <string name="codesText">
-"   <b><big>INTRODUCTION</big></b>
-    Located on this page ar
-    <b><big>MORSE CODE</big></b>
+"    <b><big>MORSE CODE</big></b>
     Morse code is transmitted through an on-off tone/light/click, and can be understood without the use of special equipment. Each dot is considered as one unit, and a dash is considered as three units. The space between each part of the same letter is one unit, and the space between each letter is three units. The space between words is seven units.
 "
 </string>
@@ -10,7 +8,7 @@
 <string name="codesText1">
 "
     <b><big>APCO 10 CODES</big></b>
-    The APCO 10 codes are used in order to communicate quickly. These codes were developed so that personnel may quickly communicate situations using a minimum number of words.
+    The APCO 10 codes were developed so that personnel may quickly communicate situations using a minimum number of words.
 "
 </string>
 <string name="codesText2">
