@@ -64,10 +64,6 @@
                     android:icon="@drawable/active"
                     android:title="@string/active" />
                 <item
-                    android:id="@+id/diseaseID"
-                    android:icon="@drawable/disease"
-                    android:title="@string/disease" />
-                <item
                     android:id="@+id/escapingID"
                     android:icon="@drawable/escaping"
                     android:title="@string/escaping" />
@@ -135,10 +131,6 @@
                     android:id="@+id/improvisedID"
                     android:icon="@drawable/improvised"
                     android:title="@string/improvised" />
-                <item
-                    android:id="@+id/restrainingID"
-                    android:icon="@drawable/restraining"
-                    android:title="@string/restraining" />
             </group>
         </menu>
     </item>
