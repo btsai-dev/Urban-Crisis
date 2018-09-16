@@ -1,16 +1,49 @@
 <resources>
 <string name="minimizingText">
-    "<b><big>INTRODUCTION</big></b>
-    
+"   <b><big>INTRODUCTION</big></b>
+    Minimizing any injury you get from being attacked, especially if the attack was a surprise, can allow you to  be able to fight back.
+
     <b><big>PUNCHES</big></b>
-    
+    A punch is a striking blow with the fist. It is probably the most common method of unarmed attack, but it can be very effective, especially when target towards your vital areas or nerve motor points. A punch is most effective when it maintains contact with your body for at least a tenth of a second, allowing the punch's kinetic energy to be fully absorbed by your body.
+
+    Of course, your first goal should be to avoid the punch completely, by side stepping or moving backwards. But if you cannot avoid the punch at all, closing the distance between you and the attacker will decrease the total momentum gained by the punch.
+
+    If the punch is moving towards your jaw, tilt your head forward to take it with your stronger forehead. Avoid getting punched in the nose, if possible. If the punch is moving towards your stomach, flex your stomach muscles and exhale quickly to empty your lungs of air before the punch knocks the wind out of you.
+
     <b><big>CLUBS</big></b>
+    A clubbing is a striking blow using a blunt object to cause blunt trauma. You will likely not be able to get out of the range of a club, so you must immediately get closer to the attacker to decrease his arm mobility. Avoid getting hit in the bones.
     
     <b><big>KNIVES</big></b>
-    
-    <b><big>VEHICLES</big></b>
-    
+    A knife follows one of the nine angles of attack. There are several types of knife attacks:
+
+    - Thrust: This is the most dangerous type, and is a strike by jabbing/lunging.
+    - Slash: This is a strike by sweeping the arm, and results in a long cut (which may either be superficial or a deep gash). This is usually not as lethal as a thrust.
+    - Flick: This is a strike by flicking the wrist to inflict numerous cuts on the extended limbs to distract you with multiple bleeding cuts.
+    - Tear: This is a cut made by dragging the tip of the blade across your body to create a rip-type cut.
+    - Hack: This is a strike by a chopping motion.
+    - Butt: This is a strike with the knife handle.
+
+    If you can, immediately move outside the attacker's swing distance, and fight outside of that. While punching, avoid exposing your inner wrist and forearm as those areas contain vital arteries.
+
+    If you are close to the attacker and the attacker is slashing at you, move your body in the same direction as the slash.
+
+    If you are close to the attacker and the attacker is thrusting towards you, side step and redirect the attacker's thrusting arm so the knife passes you. While maintaining control of the arm, strike the attacker in the face.
+"
+</string>
+
+<string name="minimizingText1">
+"    <b><big>VEHICLES</big></b>
+    For vehicles attempting to run you over, get out the path of the vehicle and put stationary objects in between you and the vehicle. If you cannot avoid getting hit with the vehicle, roll into the impact and allow it to send you partially flying. Try to land in the center of the hood and roll over the windshield and roof. You will have likely shattered the windshield, disrupting the driver's visibility.
+
     <b><big>FIREARMS</big></b>
+    When being fired upon, avoid getting too close to the ground or walls, as bullets can and will ricochet along them. Move towards cover and escape the area. Avoid getting shot at all costs.
+
+    If you do get shot, your adrenaline levels may temporarily keep your pain levels low. However, you may be severely bleeding, so continue to try to escape the area or fake your death.
+
+    <b><big>EXPLOSIONS</big></b>
+    Explosions are difficult to predict, but rumbling, not-so-subtle suicide bombers, or other warnings can give you time to try to escape. In the event that you realize that an explosion of close proximity is imminent, and cover is not available, take one giant leap away from the suspected source and dive to the ground.
+
+    Keeping your feet towards the suspected source, cross your legs to protect your leg arteries and cover your ears to protect your eardrums. Keep your elbows close and open your mouth to avoid bursting your lungs from the impending change in air pressure. Close your eyes and stay down until the explosion has ceased and shrapnel has stopped flying.
 "
 </string>
 </resources>

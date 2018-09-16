@@ -124,8 +124,6 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.v0_references, container, false);
                     case R.id.activeID:
                         return inflater.inflate(R.layout.v1_active, container, false);
-                    case R.id.diseaseID:
-                        return inflater.inflate(R.layout.v1_disease, container, false);
                     case R.id.escapingID:
                         return inflater.inflate(R.layout.v1_escaping, container, false);
                     case R.id.explosiveID:
@@ -154,8 +152,6 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.v3_firefighting, container, false);
                     case R.id.improvisedID:
                         return inflater.inflate(R.layout.v3_improvised, container, false);
-                    case R.id.restrainingID:
-                        return inflater.inflate(R.layout.v3_restraining, container, false);
                     case R.id.codesID:
                         return inflater.inflate(R.layout.v4_codes, container, false);
                     case R.id.signalsID:

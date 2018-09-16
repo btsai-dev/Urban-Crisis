@@ -27,6 +27,18 @@
                 android:paddingHorizontal="10dp"
                 android:paddingVertical="10dp"
                 android:text="@string/minimizingText" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/thrustDef"/>
+            <TextView
+                android:id="@+id/minimizingLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/minimizingText1" />
         </LinearLayout>
 
     </ScrollView>
