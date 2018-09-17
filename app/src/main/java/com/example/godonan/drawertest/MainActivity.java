@@ -45,16 +45,19 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar); // find the toolbar
         setSupportActionBar(toolbar); // set the support action bar
         
+        // Modify the action bar to my liking
         ActionBar actionbar = getSupportActionBar(); // extract the action bar
         actionbar.setDisplayHomeAsUpEnabled(true); // enable the up button
         actionbar.setHomeAsUpIndicator(R.drawable.ic_menu);   // set the up to open the navigation bar
-        actionbar.setSubtitle("Main"); // set up the subtitle as
+        actionbar.setTitle("Urban Crisis Manual") // set up the title
+        actionbar.setSubtitle("Main"); // set up the subtitle
         
-        
+        // set up the navigation view from the layout
         mDrawerLayout = findViewById(R.id.drawer_layout); // pull out the drawer_layout
         NavigationView navigationView = findViewById(R.id.nav_view); // navigation menu extract
+        
+        // set the listener for each navigation item
         navigationView.setNavigationItemSelectedListener(
-            // create a listener for each navigation view
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
                     public boolean onNavigationItemSelected(MenuItem menuItem) {
@@ -75,7 +78,8 @@ public class MainActivity extends AppCompatActivity {
                         newFragment.setArguments(bundle);
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content_frame, newFragment);
-                        //transaction.addToBackStack(null);
+                        
+                        //transaction.addToBackStack(null); // possible history usage, commented out for now
                         transaction.commit();
                         return true;
                     }

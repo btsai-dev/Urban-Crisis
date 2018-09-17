@@ -38,7 +38,8 @@
 
 <resources>
 	<!-- These are Menu Titles -->
-	<string name="app_name">RHF Manual</string>
+	<string name="app_name">Urban Crisis</string>
+	<string anme="app_title">Urban Crisis Manual</string>
 	
 	<string name="category0">Main</string>
     <string name="introduction">Introduction</string>
