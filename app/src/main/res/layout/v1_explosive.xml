@@ -21,13 +21,26 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/explosiveLayout"
+                android:id="@+id/explosiveLayout1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingHorizontal="10dp"
                 android:paddingVertical="10dp"
-                android:text="@string/explosiveText" />
+                android:text="@string/explosiveText1" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/carbombtypes"/>
+            <TextView
+                android:id="@+id/explosiveLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/explosiveText2" />
         </LinearLayout>
+
 
     </ScrollView>
 </android.support.constraint.ConstraintLayout>
