@@ -1,13 +1,14 @@
 <resources>
 <string name="violentText">
-"   <b><big>INTRODUCTION</big></b>
+"<b><big>INTRODUCTION</big></b>
+
     No matter the cause, riots are characterized by violence, and they usually must be broken up by riot police. The police face a difficult situation: they must stop a large group of violent people without killing them. Riot police use weapons classified as non-lethal; however there are reports of injuries and deaths as a result of these weapons.
 
     <b>If you are trapped in a riot, do not rush towards the police as you may be mistaken for a rioter. Instead, find shelter in a nearby building and try to avoid getting injured. You may get injured even if you are just a spectator.</b>
 
-    <b><big>RIOT WEAPONS</big></b>
+<b><big>RIOT WEAPONS</big></b>
 <ul>
-    <li>Active Denial System - This is a vehicle-mounted weapon, developed by the U.S. military, and is intended as an alternate option to other riot control methods. Rather than having to "hit" the rioters, the ADS heats up the target area. Leave the area immediately when your skin starts having a burning sensation.</li>
+<li>Active Denial System - This is a vehicle-mounted weapon, developed by the U.S. military, and is intended as an alternate option to other riot control methods. Rather than having to "hit" the rioters, the ADS heats up the target area. Leave the area immediately when your skin starts having a burning sensation.</li>
 
 <li>Baton - The classic police weapon, it is intended to strike rioters without killing them. Stay down and keep your neck safe while getting out of the way.</li>
 

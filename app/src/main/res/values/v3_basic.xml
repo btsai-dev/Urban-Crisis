@@ -1,12 +1,109 @@
 <resources>
-<string name="basicText">
-  "   <b><big>BODY VITAL AREAS</big></b>
+<string name="basicText1">
+"<b><big>INTRODUCTION</big></b>
 
-    <b><big>ANGLES OF ATTACK</big></b>
+Combatives is a term that refers to hand-to-hand combat training and techniques. The information on the page is referenced from FM 21-50.
 
-    <b><big>SHORT AND EXTENDED STRIKES</big></b>
-
-    <b><big>KICKS</big></b>
+<b><big>BODY VITAL AREAS</big></b>
 "
+</string>
+<string name="basicText2">
+"
+<b>High Section</b>
+
+The high section includes the head and the neck. This is the most dangerous target area; protect it.
+<ul>
+    <li>Top of the head: The skull is weak where the frontal cranial bones join. A forceful strike causes trauma to the cranial cavity, resulting in unconsciousness and hemorrhage. A severe strike can result in death.</li>
+    <li>Forehead: A forceful blow can cause whiplash; a severe blow can cause cerebral hemorrhage and death.</li>
+    <li>Temple: The bones of the skull are weak at the temple, and an artery and large nerve lie close to the skin. A powerful strike can cause unconsciousness and brain concussion. If the artery is severed, the resulting massive hemorrhage compresses the brain, causing coma and/or death.</li>
+    <li>Eyes: A slight jab in the eyes causes uncontrollable watering and blurred vision. A forceful jab or poke can cause temporary blindness, or the eyes can be gouged out. Death can result if the fingers penetrate through the thin bone behind the eyes and into the brain.</li>
+    <li>Ears: A strike to the ear with cupped hands can rupture the eardrum and may cause a brain concussion.</li>
+    <li>Nose: Any blow can easily break the thin bones of the nose, causing extreme pain and eye watering.</li>
+    <li>Under the Nose: A blow to the nerve center, which is close to the surface under the nose, can cause great pain and watery eyes.</li>
+    <li>Jaw: A blow to the jaw can break or dislocate it. If the facial nerve is pinched against the lower jaw, one side of the face will be paralyzed.</li>
+    <li>Chin: A blow to the chin can cause paralysis, mild concussion, and unconsciousness. The jawbone acts as a lever that can transmit the force of a blow to the back of the brain where the cardiac and respiratory mechanisms are controlled.</li>
+    <li>Back of ears and base of skull: A moderate blow to the back of the ears or the base of the skull can cause unconsciousness by the jarring effect on the back of the brain. However, a powerful blow can cause a concussion or brain hemorrhage and death.</li>
+    <li>Throat: A powerful blow to the front of the throat can cause death by crushing the windpipe. A forceful blow causes extreme pain and gagging or vomiting.</li>
+    <li>Side of Neck:  Side of neck. A sharp blow to the side of the neck causes unconsciousness by shock to the carotid artery, jugular vein, and vagus nerve. For maximum effect, the blow should be focused below and slightly in front of the ear. A less powerful blow causes involuntary muscle spasms and intense pain.</li>
+    <li>Back of Neck: A powerful blow to the back of one's neck can cause whiplash, concussion, or even a broken neck and death.</li>
+</ul>
+<b>Middle Section</b>
+
+The middle section extends from the shoulders to the area just above the hips. Most blows here are not fatal, but may have serious long-term effects.
+<ul>
+    <li>Front of shoulder muscle: A large bundle of nerves passes in front of the shoulder joint. A forceful blow causes extreme pain and can make the whole arm ineffective if the nerves are struck just right.</li>
+    <li>Collarbone:  A blow to the collarbone can fracture it, causing intense pain and rendering the arm on the side of the fracture ineffective. The fracture can also sever the brachial nerve or subclavian artery.</li>
+    <li>Armpit: A large nerve lies close to the skin in each armpit. A blow to this nerve causes severe pain and partial paralysis. A knife inserted into the armpit is fatal as it severs a major artery leading from the heart.</li>
+    <li>Spine: A blow to the spinal column can sever the spinal cord, resulting in paralysis or death.</li>
+    <li>Nipples: A large network of nerves passes near the skin at the nipples. A blow here can cause extreme pain and hemorrhage to the many blood vessels beneath.</li>
+    <li>Heart: A jolting blow to the heart can stun the opponent.</li>
+    <li>Solar Plexus: The solar plexus is a center for nerves that control the cardiorespiratory system. A blow to this location is painful and can take the breath from the opponent. A powerful blow causes unconsciousness by shock to the nerve center. A penetrating blow can also damage internal organs. </li>
+    <li>Diaphragm:  A blow to the lower front of the ribs can cause the diaphragm and the other muscles that control breathing to relax. This causes loss of breath and can result in unconsciousness due to respiratory failure.</li>
+    <li>Floating ribs: A blow to the floating ribs can easily fracture them because they are not attached to the rib cage. Fractured ribs on the right side can cause internal injury to the liver; fractured ribs on either side can possibly puncture or collapse a lung.</li>
+    <li>Kidneys:  A powerful blow to the kidneys can induce shock and can possibly cause internal injury to these organs. A stab to the kidneys induces instant shock and can cause death from severe internal bleeding.</li>
+    <li>Abdomen below naval: A powerful blow to the area below the navel and above the groin can cause shock, unconsciousness, and internal bleeding.</li>
+    <li>Biceps: A strike to the biceps is most painful and renders the arm ineffective. The biceps is an especially good target when an opponent holds a weapon.</li>
+    <li>Forearm muscle: The radial nerve, which controls much of the movement in the hand, passes over the forearm bone just below the elbow. A strike to the radial nerve renders the hand and arm ineffective. An opponent can be disarmed by a strike to the forearm; if the strike is powerful enough, he can be knocked unconscious</li>
+    <li>Back of hand: The backs of the hands are sensitive. Since the nerves pass over the bones in the hand, a strike to this area is intensely painful. The small bones on the back of the hand are easily broken and such a strike can also render the hand ineffective.</li>
+</ul>
+<b>Low Section</b>
+The low section includes everything from the groin area to the feet. Strikes here are usually not fatal, but they can be incapacitating.
+<ul>
+    <li>Groin: A moderate blow to the groin can incapacitate an opponent and cause intense pain. A powerful blow can result in unconsciousness and shock.</li>
+    <li>Outside of thigh: A large nerve passes near the surface on the outside of the thigh about four finger-widths above the knee. A powerful strike to this region can render the entire leg ineffective, causing an opponent to fall. This target is especially suitable for knee strikes and shin kicks.</li>
+    <li>Inside of thigh:  A large nerve passes over the bone about in the middle of the inner thigh. A blow to this area also incapacitates the leg and can cause the opponent to drop. Knee strikes and heel kicks are the weapons of choice for this target.</li>
+    <li>Hamstring: A severe strike to the hamstring can cause muscle spasms and inhibit mobility. If the hamstring is cut, the leg is useless.</li>
+    <li>Knee: Because the knee is a major supporting structure of the body, damage to this joint is especially detrimental to an opponent. The knee is easily dislocated when struck at an opposing angle to the joint's normal range of motion, especially when it is bearing the opponent's weight. The knee can be dislocated or hyper-extended by kicks and strikes with the entire body.</li>
+    <li>Calf: A powerful blow to the top of the calf causes painful muscle spasms and also inhibits mobility.</li>
+    <li>Shin: A moderate blow to the shin produces great pain, especially a blow with a hard object. A powerful blow can possibly fracture the bone that supports most of the body weight.</li>
+    <li>Achilles Tendon: A powerful strike to the Achilles tendon on the back of the heel can cause ankle sprain and dislocation of the foot. If the tendon is torn, the opponent is incapacitated. The Achilles tendon is a good target to cut with a knife.</li>
+    <li>Ankle: A blow to the ankle causes pain; if a forceful blow is delivered, the ankle can be sprained or broken.</li>
+    <li>Instep: The small bones on the top of the foot are easily broken. A strike here will hinder the opponent's mobility.</li>
+</ul>
+"
+</string>
+<string name="basicText3">
+<b><big>SHORT PUNCHES AND STRIKES</big></b>
+
+</string>
+<string name="solarPlexus">
+    "
+    A punch at the solar plexus will knock the wind out of your opponent.
+"
+</string>
+<string name="faceStrike">
+    "
+    When being rushed, strike your opponent in the temple, ear, or face.
+    "
+</string>
+<string name="hookStrike">
+    "
+    If your opponent tries to wrestle you to the ground, counter with a short hook punch to your opponent's solar plexus or floating ribs.
+    "
+</string>
+<string name="upperCut">
+    "
+    Step in between your opponent's arms and strike with an uppercut punch to the chin or jaw.
+    "
+</string>
+<string name="neckKnife">
+    "
+    Rotate at the waist to gain power, and strike your opponent at the side of the neck with the edge of your hand.
+    "
+</string>
+<string name="radialNerve">
+    "
+    When the opponent tries to punch you, strike your opponent at the top of the forearm just below the elbow. You should be hitting the radial nerve.
+    "
+</string>
+<string name="elbowFace">
+    "
+    When using an elbow strike, execute them quickly, powerfully, and repetitively.
+    "
+</string>
+<string name="frontKnee">
+    "
+    When your opponent tries to grapple with you, strike your opponent in the stomach, solar plexus, or groin with your knee.
+    "
 </string>
 </resources>

@@ -70,7 +70,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nDISPERSE"/>
+                android:text="\nDISPERSE\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nTAKE COVER"/>
+                android:text="\nTAKE COVER\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -94,7 +94,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nAERIAL ATTACK"/>
+                android:text="\nAERIAL ATTACK\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -106,7 +106,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nNUCLEAR/BIOLOGICAL/CHEMICAL ATTACK"/>
+                android:text="\nNUCLEAR/BIOLOGICAL/CHEMICAL ATTACK\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -118,7 +118,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nDANGEROUS AREA"/>
+                android:text="\nDANGEROUS AREA\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -130,19 +130,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="\nSTOP AND FREEZE"/>
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:src="@drawable/signal23"/>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="\nHOVER AIRCRAFT"/>
+                android:text="\nHOVER AIRCRAFT\n"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

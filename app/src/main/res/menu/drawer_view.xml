@@ -116,10 +116,6 @@
         <menu>
             <group>
                 <item
-                    android:id="@+id/codesID"
-                    android:icon="@drawable/codes"
-                    android:title="@string/codes" />
-                <item
                     android:id="@+id/signalsID"
                     android:icon="@drawable/signals"
                     android:title="@string/signals" />

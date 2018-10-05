@@ -19,7 +19,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:weightSum="1000"
             >
 
             <TextView
@@ -31,16 +30,13 @@
                 android:text="@string/basicText1" />
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="80"
                 android:src="@drawable/head"/>
-
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="80"
                 android:src="@drawable/body"/>
             <TextView
                 android:id="@+id/basicLayout2"
@@ -51,9 +47,8 @@
                 android:text="@string/basicText2" />
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/solarplexus"/>
             <TextView
                 android:id="@+id/basicLayout3"
@@ -65,9 +60,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/facestrike"/>
             <TextView
                 android:id="@+id/basicLayout4"
@@ -79,9 +73,8 @@
 
             <ImageView
             android:layout_width="match_parent"
-            android:layout_height="0dp"
+            android:layout_height="wrap_content"
             android:adjustViewBounds="true"
-                android:layout_weight="50"
             android:src="@drawable/hookstrike"/>
             <TextView
                 android:id="@+id/basicLayout5"
@@ -93,9 +86,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/uppercut"/>
             <TextView
                 android:id="@+id/basicLayout6"
@@ -107,9 +99,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/neckknife"/>
             <TextView
                 android:id="@+id/basicLayout7"
@@ -121,9 +112,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/radialnerve"/>
             <TextView
                 android:id="@+id/basicLayout8"
@@ -135,9 +125,8 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
+                android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:layout_weight="50"
                 android:src="@drawable/elbowface"/>
             <TextView
                 android:id="@+id/basicLayout9"
@@ -148,11 +137,10 @@
                 android:text="@string/elbowFace" />
 
             <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:adjustViewBounds="true"
-                android:layout_weight="50"
-                android:src="@drawable/frontknee"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/frontknee"/>
             <TextView
                 android:id="@+id/basicLayout10"
                 android:layout_width="match_parent"
