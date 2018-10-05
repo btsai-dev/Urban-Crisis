@@ -18,15 +18,149 @@
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:weightSum="1000"
+            >
 
             <TextView
-                android:id="@+id/basicLayout"
+                android:id="@+id/basicLayout1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingHorizontal="10dp"
                 android:paddingVertical="10dp"
-                android:text="@string/basicText" />
+                android:text="@string/basicText1" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="80"
+                android:src="@drawable/head"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="80"
+                android:src="@drawable/body"/>
+            <TextView
+                android:id="@+id/basicLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/basicText2" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/solarplexus"/>
+            <TextView
+                android:id="@+id/basicLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/solarPlexus" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/facestrike"/>
+            <TextView
+                android:id="@+id/basicLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/faceStrike" />
+
+            <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:adjustViewBounds="true"
+                android:layout_weight="50"
+            android:src="@drawable/hookstrike"/>
+            <TextView
+                android:id="@+id/basicLayout5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/hookStrike" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/uppercut"/>
+            <TextView
+                android:id="@+id/basicLayout6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/upperCut" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/neckknife"/>
+            <TextView
+                android:id="@+id/basicLayout7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/neckKnife" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/radialnerve"/>
+            <TextView
+                android:id="@+id/basicLayout8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/radialNerve" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/elbowface"/>
+            <TextView
+                android:id="@+id/basicLayout9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/elbowFace" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:adjustViewBounds="true"
+                android:layout_weight="50"
+                android:src="@drawable/frontknee"/>
+            <TextView
+                android:id="@+id/basicLayout10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="10dp"
+                android:text="@string/frontKnee" />
+
         </LinearLayout>
 
     </ScrollView>
