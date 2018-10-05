@@ -124,8 +124,8 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.v0_references, container, false);
                     case R.id.activeID:
                         return inflater.inflate(R.layout.v1_active, container, false);
-                    case R.id.escapingID:
-                        return inflater.inflate(R.layout.v1_escaping, container, false);
+                    //case R.id.escapingID:
+                        //return inflater.inflate(R.layout.v1_escaping, container, false);
                     case R.id.explosiveID:
                         return inflater.inflate(R.layout.v1_explosive, container, false);
                     case R.id.medicalID:
@@ -134,20 +134,20 @@ public class MainActivity extends AppCompatActivity {
                         return inflater.inflate(R.layout.v1_minimizing, container, false);
                     case R.id.nbc1ID:
                         return inflater.inflate(R.layout.v1_nbc1, container, false);
-                    case R.id.nbc2ID:
-                        return inflater.inflate(R.layout.v1_nbc2, container, false);
+                    //case R.id.nbc2ID:
+                        //return inflater.inflate(R.layout.v1_nbc2, container, false);
                     case R.id.transportationID:
                         return inflater.inflate(R.layout.v1_transportation, container, false);
                     case R.id.violentID:
                         return inflater.inflate(R.layout.v1_violent, container, false);
-                    case R.id.avoidingID:
-                        return inflater.inflate(R.layout.v2_avoiding, container, false);
+                   // case R.id.avoidingID:
+                        //return inflater.inflate(R.layout.v2_avoiding, container, false);
                     case R.id.barricadingID:
                         return inflater.inflate(R.layout.v2_barricading, container, false);
                     case R.id.basicID:
                         return inflater.inflate(R.layout.v3_basic, container, false);
-                    case R.id.disarmingID:
-                        return inflater.inflate(R.layout.v3_disarming, container, false);
+                    //case R.id.disarmingID:
+                        //return inflater.inflate(R.layout.v3_disarming, container, false);
                     case R.id.firefightingID:
                         return inflater.inflate(R.layout.v3_firefighting, container, false);
                     case R.id.improvisedID:

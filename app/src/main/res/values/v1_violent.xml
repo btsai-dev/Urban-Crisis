@@ -1,12 +1,32 @@
 <resources>
 <string name="violentText">
 "   <b><big>INTRODUCTION</big></b>
-    
-    <b><big>ESCAPING A RIOT</big></b>
-    
-    <b><big>RIOT CONTROL</big></b>
-    
+    No matter the cause, riots are characterized by violence, and they usually must be broken up by riot police. The police face a difficult situation: they must stop a large group of violent people without killing them. Riot police use weapons classified as non-lethal; however there are reports of injuries and deaths as a result of these weapons.
+
+    <b>If you are trapped in a riot, do not rush towards the police as you may be mistaken for a rioter. Instead, find shelter in a nearby building and try to avoid getting injured. You may get injured even if you are just a spectator.</b>
+
     <b><big>RIOT WEAPONS</big></b>
+<ul>
+    <li>Active Denial System - This is a vehicle-mounted weapon, developed by the U.S. military, and is intended as an alternate option to other riot control methods. Rather than having to "hit" the rioters, the ADS heats up the target area. Leave the area immediately when your skin starts having a burning sensation.</li>
+
+<li>Baton - The classic police weapon, it is intended to strike rioters without killing them. Stay down and keep your neck safe while getting out of the way.</li>
+
+<li>Bean Bag Round - Fired from modified shotguns, it is a piece of fabric containing lead pellets. The lead pellets spread outwards and are not intended to badly injure or kill. Officers are taught not to target a person's vital areas, however accidents do occur and there may be fatalities. Avoid riot police wielding these shotguns (usually modified with bright markings).</li>
+
+<li>Long Range Acoustic Device - This is a vehicle-mounted weapon, capable of not only conducting mass notifications ,but also of being used as sonic weapon. The device uses high-powered sound waves in order to cause discomfort or disorientation. Leave the area immediately when one of these trucks arrive and the operator is wearing earmuffs.</li>
+
+<li>Molotov Cocktails - Rioters may start throwing these particularly dangerous weapons at the police. The greatest threat is the burning fuel splashing onto you (as well as the glass). Run perpendicular to a thrown molotov if you spot one coming right at you.</li>
+
+<li>Riot Shields - Police forces will use their shields in an effort to push back the rioters. Avoid resisting or pushing back against the shields, or you may lose your balance.</li>
+
+<li>Rubber Bullets - They are non-lethal rubber-coated bullets, and are intended to cause pain but no injury. However, they may cause serious injuries if they hit the head, and they have been known to cause deaths. Stay down and cover your face.</li>
+
+<li>Rocks and Thrown Projectiles - To fight back, rioters will likely start throwing rocks or bricks at the police. If glass bottles are thrown, the shattered glass may cause injury to those who trip and fall into them. Stay down, cover your eyes, and avoid getting hit in the head.</li>
+
+<li>Tear Gas - Tear gas is intended to affect breathing, and it also causes skin and eye irritation. They are often fired as canisters into the rioting crowd, however some rioters who are more able to resist its effects (or are wearing gas masks) may start throwing them back. Leave, and breathe through short bursts. Don't rub your eyes, and wash off the tear gas when you can.</li>
+
+<li>Water Cannon - These fire strong jets of water, and are intended to knock over rioters. Stay down to avoid getting easily knocked over, and try not to slip on the water.</li>
+</ul>
 "
 </string>
 </resources>

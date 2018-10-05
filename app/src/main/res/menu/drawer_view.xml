@@ -64,10 +64,6 @@
                     android:icon="@drawable/active"
                     android:title="@string/active" />
                 <item
-                    android:id="@+id/escapingID"
-                    android:icon="@drawable/escaping"
-                    android:title="@string/escaping" />
-                <item
                     android:id="@+id/explosiveID"
                     android:icon="@drawable/explosive"
                     android:title="@string/explosive" />
@@ -84,10 +80,6 @@
                     android:icon="@drawable/nbc1"
                     android:title="@string/nbc1" />
                 <item
-                    android:id="@+id/nbc2ID"
-                    android:icon="@drawable/nbc2"
-                    android:title="@string/nbc2" />
-                <item
                     android:id="@+id/transportationID"
                     android:icon="@drawable/transportation"
                     android:title="@string/transportation" />
@@ -98,31 +90,17 @@
             </group>
         </menu>
     </item>
-    <item android:title="@string/category2">
-        <menu>
-            <group>
-                <item
-                    android:id="@+id/avoidingID"
-                    android:icon="@drawable/avoiding"
-                    android:title="@string/avoiding" />
-                <item
-                    android:id="@+id/barricadingID"
-                    android:icon="@drawable/barricading"
-                    android:title="@string/barricading" />
-            </group>
-        </menu>
-    </item>
     <item android:title="@string/category3">
         <menu>
             <group>
                 <item
+                    android:id="@+id/barricadingID"
+                    android:icon="@drawable/barricading"
+                    android:title="@string/barricading" />
+                <item
                     android:id="@+id/basicID"
                     android:icon="@drawable/basic"
                     android:title="@string/basic" />
-                <item
-                    android:id="@+id/disarmingID"
-                    android:icon="@drawable/disarming"
-                    android:title="@string/disarming" />
                 <item
                     android:id="@+id/firefightingID"
                     android:icon="@drawable/firefighting"

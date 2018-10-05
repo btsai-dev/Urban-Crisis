@@ -50,10 +50,10 @@
 	<string name="explosive">Explosive Devices</string>
     <string name="medical">Medical Treatment</string>
 	<string name="minimizing">Minimizing Received Injury</string>
-    <string name="nbc1">NBC Attack Responses</string>
+    <string name="nbc1">NBC Attacks</string>
 	<string name="nbc2">NBC Decontamination</string>
     <string name="transportation">Transportation Troubles</string>
-	<string name="violent">Violent Rioting</string>
+	<string name="violent">Violent Riots</string>
 	
 	<string name="category2">Clandestine Activities</string>
     <string name="avoiding">Avoiding Detection</string>
@@ -65,7 +65,7 @@
     <string name="firefighting">Firefighting</string>
     <string name="improvised">Improvised Weapons</string>
 	
-	<string name="category4">Getting Help</string>
+	<string name="category4">Communicating</string>
     <string name="codes">Codes</string>
     <string name="signals">Signals</string>
     <string name="telecommunications">Telecommunications</string>
