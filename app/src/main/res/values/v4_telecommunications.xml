@@ -1,14 +1,10 @@
 <resources>
 <string name="telecommunicationsText">
 "<b><big>INTRODUCTION</big></b>
-
-    Amateur radio (also called ham radio) is basically the use of radio for non-commercial use (e.g, you're doing it for fun or you're testing out wireless equipment). This is different normal commercial broadcasting radio, public safety usage, or two-way radio usage.
-
-    Because radio transmissions can travel to other countries, posing security risks, governments usually require operators to have a license. Every operator is given a call sign for identification, and are allowed to build or modify transmission equipment for personal use within the amateur radio spectrum. <b>You usually do not need a license to listen to radio transmissions.</b>
-
-    During times of emergency, cell phone service may be down (an example being the 9/11 attacks) and the increased traffic of people trying to communicate with each other may be too much for cellular stations to handle. However, you can still use amateur radio to communicate. Even if you don't have a transmitter/aren't licensed, you can still listen to emergency radio broadcasts.
-
-<b><big>EMERGENCY RADIO FREQUENCIES</big></b>
+    Amateur radio (also called ham radio)is the use of radio for non-commercial purposes. This is different from radio used for commercial broadcasting and by public safety personnel.
+    As radio transmissions can reach foriegn countries, governments require operators to have a license. All operators are given a call sign for identification, and they are allowed to build/modify transmission equipment for personal use within the amateur radio spectrum. Note that a <b><i>license is not necessary to listen to radio transmissions</i></b>.
+    During a crisis, cell phone service may be down due to the increased number of people trying to call each other. However, amateur radio can always be used to transmit and receive messages. Just remember that anyone listening on the frequency you are transmitting can hear everything you say
+ <b><big>EMERGENCY RADIO FREQUENCIES</big></b>
 
     Please note that the following pertains only to those in the United States of America.
 <ul> 
