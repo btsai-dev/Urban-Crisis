@@ -39,19 +39,15 @@
 <resources>
 <string name="introductionText">
 "<b><big>INTRODUCTION</big></b>
-    <b>If you are in an emergency situation at this moment, ignore this page and tap the top left-hand icon to bring up the menu so you can get to the information you need.</b>
-
-    This mobile app contains information which can help guide you through emergency situations. While most, if not all, of the information contained will never be useful to you, the information is still fun to read about and can help you if you do manage to get yourself into an emergency situation.
-
-    The most important parts of the app are in <b>bold</b>, so if you don't have time to read through everything, you'll know what's the important stuff. Also make sure to take a look at the pictures, as they may help more than words.
+	<b>If you are currently involved in an emergency situation, ignore this page and tap the top left hand icon to bring up the menu.</b>
+    This mobile app is a compilation of various information useful in a variety of emergency situations. While you will rarely, if ever, need the information contained, extra knowledge can never hurt.
+	Information that is particularly important or information that may be needed immediately will be <b><i>bolded and italicized.</i></b>.
 
     This app uses content and images from several U.S. Army Field Manuals and governmental websites.
 	
-    Hopefully you'll never encounter any of the situations this app deals with, but if you do, don't worry, you've increased your survival chance by a statistically insignificant amount! :D
+    The information here is to serve only as a guide. How you use the information and adapt it to different environments and situations relies on your creativity, skills, and capabilities. Being able to increase your chances of survival by a statistically significant or insignificant amount will depend on you.
 
-    Seriously though, if you actually need this app, then I really wish you the best of luck. Happy surviving!
-
-	<i>This app was created for the Congressional App Challenge.</i>
+    Hopefully you'll never need this app for any emergency. But if you do, then I give you my best wishes. Happy surviving, and good luck!
     "
 </string>
 </resources>

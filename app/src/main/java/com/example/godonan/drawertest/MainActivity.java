@@ -45,6 +45,12 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar); // find the toolbar
         setSupportActionBar(toolbar); // set the support action bar
         
+        // Set toolbar height
+        RelativeLayout.LayoutParams layoutParams = (RelativeLayout.LayoutParams) toolbar.getLayoutParams();
+        layoutParams.height = 10;
+        toolbar.setLayoutParams(layoutParams);
+        toolbar.requestLayout();
+        
         // Modify the action bar to my liking
         ActionBar actionbar = getSupportActionBar(); // extract the action bar
         actionbar.setDisplayHomeAsUpEnabled(true); // enable the up button
@@ -58,32 +64,32 @@ public class MainActivity extends AppCompatActivity {
         
         // set the listener for each navigation item
         navigationView.setNavigationItemSelectedListener(
-                new NavigationView.OnNavigationItemSelectedListener() {
-                    @Override
-                    public boolean onNavigationItemSelected(MenuItem menuItem) {
-                        // have item get persistent highlighting
-                        int id = menuItem.getItemId();
-                        mDrawerLayout.closeDrawers();
-                        Fragment newFragment = new UniversalFragment();
+            new NavigationView.OnNavigationItemSelectedListener() {
+                @Override
+                public boolean onNavigationItemSelected(MenuItem menuItem) {
+                    // have item get persistent highlighting
+                    int id = menuItem.getItemId();
+                    mDrawerLayout.closeDrawers();
+                    Fragment newFragment = new UniversalFragment();
                         
-                        // alter the actionbar with the menu title
-                        ActionBar actionbar = getSupportActionBar();
-                        actionbar.setSubtitle(menuItem.getTitle());
-                        
-                        // bundle towards the navigation view object
-                        Bundle bundle = new Bundle();
-                        bundle.putString("ID", Integer.toString(id));
-                        
-                        // create the fragment, set its arguments to the bundle
-                        newFragment.setArguments(bundle);
-                        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-                        transaction.replace(R.id.content_frame, newFragment);
-                        
-                        //transaction.addToBackStack(null); // possible history usage, commented out for now
-                        transaction.commit();
-                        return true;
-                    }
+                    // alter the actionbar with the menu title
+                    ActionBar actionbar = getSupportActionBar();
+                    actionbar.setSubtitle(menuItem.getTitle());
+                    
+                    // bundle towards the navigation view object
+                    Bundle bundle = new Bundle();
+                    bundle.putString("ID", Integer.toString(id));
+                    
+                    // create the fragment, set its arguments to the bundle
+                    newFragment.setArguments(bundle);
+                    FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+                    transaction.replace(R.id.content_frame, newFragment);
+                    
+                    //transaction.addToBackStack(null); // history usage, commented out for now due to memory problems
+                    transaction.commit();
+                    return true;
                 }
+            }
         );
     }
     
