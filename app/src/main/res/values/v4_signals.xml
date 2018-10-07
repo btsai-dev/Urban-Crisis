@@ -1,34 +1,23 @@
 <resources>
 <string name="signalsText">
 "<b><big>INTRODUCTION</big></b>
-
-    Non-auditory signals are useful if one is trying to communicate at long ranges, there is too much noise to give verbal commands, of if keeping silent is necessary. Panel and body signals can also be used to signal aircraft for rescue.
-
-<b><big>PANEL SIGNALS</big></b>
-
-    Panel signals, with a contrasting front and backside, may be used to convey messages. These panel messages come from the United States Army Field Manual 21-76.
-"
+    Non-auditory signals are useful if one is trying to communicate at long ranges, there is too much noise to give verbal commands, of if keeping silent is necessary. Panel and body signals can also be used to signal for rescue.
+ <b><big>PANEL SIGNALS</big></b>
+    Panel signals, with a contrasting front and backside, may be used to convey messages. These panel messages come from the United States Army Field Manual 21-76."
 </string>
 
 <string name="signalsText1">
-"
-<b><big>AIRCRAFT ACKNOWLEDGEMENT</big></b>
-
-    If the pilot of a fixed-wing aircraft recieves your message, they will usually indicate it by flying low and rocking his plane from side to side (or flashing lamps at night). If possible, use a radio. Otherwise, use body signals as shown below.
-"
+"<b><big>AIRCRAFT ACKNOWLEDGEMENT</big></b>
+    If the pilot of a fixed-wing aircraft recieves your message, they will usually indicate it by flying low and rocking his plane from side to side (or flashing lamps at night). If possible, use a radio. Otherwise, use body signals as shown below."
 </string>
 
 <string name="signalsText2">
-"
-<b><big>GROUND TO AIR BODY SIGNALS</big></b>
-
-    These body signals come from the United States Army Field Manual 21-76. Signals for rotary-wing aircraft can be seen at the bottom of this page.
+"<b><big>GROUND TO AIR BODY SIGNALS</big></b>
+    These body signals come from the United States Army Field Manual 21-76. Signals for rotary-wing aircraft can be seen at the bottom of this page."
 </string>
 
 <string name="signalsText3">
-"
-<b><big>BODY SIGNALS</big></b>
-
-    These body signals come from the United States Army Field Manual 21-60. Flashlights, preferably with blue filters to keep the driver's night vision, are to be used at night for directing vehicles.
+"<b><big>BODY SIGNALS</big></b>
+    These body signals come from the United States Army Field Manual 21-60. Flashlights, preferably with blue filters to keep the driver's night vision, are to be used at night for directing vehicles."
 </string>
 </resources>
