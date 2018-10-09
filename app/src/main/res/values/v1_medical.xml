@@ -1,20 +1,20 @@
 <resources>
 <string name="medicalText">
-    "<b><big>INTRODUCTION</big></b>
+"<b><big>INTRODUCTION</big></b>
     
-    <b><big>RESCUE BREATHING</big></b>
+ <b><big>RESCUE BREATHING</big></b>
     
-    <b><big>BLEEDING</big></b>
+ <b><big>BLEEDING</big></b>
     
-    <b><big>SHOCK</big></b>
+ <b><big>SHOCK</big></b>
     
-    <b><big>FRACTURES</big></b>
+ <b><big>FRACTURES</big></b>
     
-    <b><big>CLIMATIC</big></b>
+ <b><big>CLIMATIC</big></b>
     
-    <b><big>BITES AND STINGS</big></b>
+ <b><big>BITES AND STINGS</big></b>
     
-    <b><big>NBC FIRST AID</big></b>
+ <b><big>NBC FIRST AID</big></b>
 "
 </string>
 </resources>
