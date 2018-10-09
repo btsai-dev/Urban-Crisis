@@ -3,69 +3,46 @@
 "<b><big>INTRODUCTION</big></b>
     Improvised Explosive Devices (IEDs) is a bomb constructed and deployed in ways other than in conventional military action. They are 
     The following information is referenced from U.S. Army Field Manual 3-21.8, Appendix A. This page provides information regarding Improvised Explosive Devices (IEDs), suicide/homicide bombers, and the identification of such.
-
-    <b><big>TYPES OF IEDS</big></b>
+ <b><big>TYPES OF IEDS</big></b>
 
     There are several types of IEDs, and they include:
-<ul>
-<li>Timed Explosive Devices: These devices detonate by a timed fuse, remote control, or other electrical means.</li>
-    <li>Vehicle-Borne Devices are a type of a timed explosive device. Explosives are attached to them, and they may be detonated remotely, through a timed fuse, or by other electical means. Drivers are not always necessary.</li>
-<li>Impact Detonated Devices: These devices detonate on impact (either from being dropped or thrown).</li>
-</ul>
-    <b><big>IED IDENTIFICATION</big></b>
-
+    - Timed Explosive Devices: These devices detonate by a timed fuse, remote control, or other electrical means.
+        - Vehicle-Borne Devices are a type of a timed explosive device. Explosives are attached to them, and they may be detonated remotely, through a timed fuse, or by other electical means. Drivers are not always necessary.
+    - Impact Detonated Devices: These devices detonate on impact (either from being dropped or thrown).
+ <b><big>IED IDENTIFICATION</big></b>
     Keep in mind that a suspected object may not necessarily be an IED; rather, there may be some reasonable explanation. Always report said object to the authorities and let them take action. Do not investigate the suspected object.
-
     Key identification features and indicators of an IED include:
-<ul>
-<li>Exposed wire/cord/fuse protruding from an object that does not normally have such attachment (such as a wire protruding from a backpack).</li>
-<li>An unusual odor, sound, or substance being produced by said object (such as smoke coming from a laptop).</li>
-<li>An item that is oddly light or heavy for its size (such as a really heavy small suitcase).</li>
-<li>An object that is out of place (a suitcase lying unattended on a bench for several days).</li>
-<li>An object or area locals are obviously avoiding.</li>
-<li>A threatening-looking object whose possessor is sprouting verbal threats.</li>
-<li>An object thrown at people and/or facilities.</li>
-</ul>
-
+    - Exposed wire/cord/fuse protruding from an object that does not normally have such attachment (such as a wire protruding from a backpack).
+    - An unusual odor, sound, or substance being produced by said object (such as smoke coming from a laptop).
+    - An item that is oddly light or heavy for its size (such as a really heavy small suitcase).
+    - An object that is out of place (a suitcase lying unattended on a bench for several days).
+    - An object or area locals are obviously avoiding.
+    - A threatening-looking object whose possessor is sprouting verbal threats.
+    - An object thrown at people and/or facilities.
     For vehicle-borne devices, the size of the car will affect the amount of explosives it can carry. Larger cars can carry more explosives, and vice versa.
-
     Key identification features and indicators of a car bomb include:
-<ul>
-<li>A vehicle riding low, especially if the vehicle appears devoid of passengers. The weight of the explosives may be the cause.</li>
-<li>Suspiciously large boxes/satchels/bags/other types of container in plain view on/under/or near the front seat in the driver's area, rather than in the front passenger's area.</li>
-<li>Wire or rope-like material coming from the front of the vehicle that leads to the rear passenger/trunk area.</li>
-<li>A timer or switch in the front of the vehicle.</li>
-<li>Unusual or very strong fuel-like odors.</li>
-<li>An absent or suspicious-looking driver.</li>
-</ul>
-"
+    - A vehicle riding low, especially if the vehicle appears devoid of passengers. The weight of the explosives may be the cause.
+    - Suspiciously large boxes/satchels/bags/other types of container in plain view on/under/or near the front seat in the driver's area, rather than in the front passenger's area.
+    - Wire or rope-like material coming from the front of the vehicle that leads to the rear passenger/trunk area.
+    - A timer or switch in the front of the vehicle.
+    - Unusual or very strong fuel-like odors.
+    - An absent or suspicious-looking driver."
 </string>
 <string name="explosiveText2">
-    "
-    <b><big>SUICIDE BOMBERS</big></b>
-
-    <b>DEFINITION</b>
+"<b><big>SUICIDE BOMBERS</big></b>
     A suicide bombing is so called as it guarantees death for the bomber. The bomber conducts the attack by detonating a worn, carried, or driven portable explosive device. The bomber is the precision weapon. Bombers intend to maximize casualties or eliminate a particular target.
-
     Stopping a bombing is difficult. Even if the bomber is stopped before reaching his/her target, the device can still be detonated and injure/kill anyone around the bomber.
-
     Targets of a suicide bomber include military installations and personnel, government buildings and officials, and crowded locations.
-
     A person-borne suicide bomb usually involves a hand-activated switch or button. A vest, belt, or other types of modified clothing can conceal explosives. Backpacks, suitcases, and handbags may also be used.
-
     <b>If you suspect a suicide bomber, do not confront him/her. Instead, report the bomber to the proper authorities.</b>
-
-    <b>SPECIAL CONSIDERATIONS</b>
-
+ <b>SPECIAL CONSIDERATIONS</b>
     Remain aware of the following:
-<ul>
-<li>If they believe that they have been discovered, most bombers will try to detonate their device.</li>
-<li>Suicide bombers may be of any age, nationality, or gender.</li>
-<li>Many bombers use a pressure-release-type detonation devices that they hold in their hands. They apply pressure as they approach their target. The device will detonate as they relax their grip, so the device will go off even if the bomber is killed.</li>
-<li>Some bombers have a command-detonated system attached to their bomb. A second person tracks the bomber, and they may detonate the bomb even if the bomber dies or the trigger is destroyed/disabled.</li>
-<li>Some bombers use a timed detonation system, which will explode whether or not the bomber is killed by the authorities.</li>
-<li>There may be a second suicide bomber operating as a backup to attack the crowd and any emergency personnel who arrive.</li>
-</ul>
-    "
+    - If they believe that they have been discovered, most bombers will try to detonate their device.
+    - Suicide bombers may be of any age, nationality, or gender.
+    - Many bombers use a pressure-release-type detonation devices that they hold in their hands. They apply pressure as they approach their target. The device will detonate as they relax their grip, so the device will go off even if the bomber is killed.
+    - Some bombers have a command-detonated system attached to their bomb. A second person tracks the bomber, and they may detonate the bomb even if the bomber dies or the trigger is destroyed/disabled.
+    - Some bombers use a timed detonation system, which will explode whether or not the bomber is killed by the authorities.
+    - There may be a second suicide bomber operating as a backup to attack the crowd and any emergency personnel who arrive.
+"
 </string>
 </resources>
