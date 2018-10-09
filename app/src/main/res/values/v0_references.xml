@@ -3,7 +3,6 @@
 "<b><big>REFERENCES</big></b>
     This app was certainly not possible with help from documents provided by the United States Government.
     This app uses information and images from the following:
-    
     - FM 3-4: NBC Protection
     - FM 3-5: NBC Decontamination
     - FM 3-21.8: The Infantry Rifle Platoon and Squad
@@ -13,33 +12,20 @@
     - FM 21-150: Combatives
     - FM 3-25.150: Combatives
     - FM 55-501: Marine Crewman's Handbook
-<<<<<<< HEAD
     - U.S. Department of Homeland Security
     - U.S. Department of Health and Human Services
     - U.S. Federal Emergency Management Agency
     - National Sheriff's Association
     - Do or Die: Voices from the ecological resistance
-    - Omega Research Foundation
-=======
-    - U.S. Department of Homeland Security (www.dhs.gov)
-    - U.S. Department of Health and Human Services ()
-    - U.S. Federal Emergency Management Agency    
+    - Omega Research Foundation  
     - Do or Die (www.eco-action.org/dod/)
     - Omega Research Foundation (www.omegaresearchfoundation.org)
     - Primal Survivor (www.primalsurvivor.net)
->>>>>>> 8c179a6439605de4532ab405599302ad2eca17cc
-
-    
  <b><big>CREDITS</big></b>
     This app was inspired from Clint Emerson's book, <i>100 Deadly Skills: The SEAL Operative's Guide to Eluding Pursuers, Evading Capture, and Surviving Any Dangerous Situation</i>
-    
     App content originally inspired from FM 21-150.
-    
     Corona Labs for introducing to me the basic ideas and methodology in app development and Android Studio for being the SDK where I put everything todgether.
-    
     Codeanywhere for allowing me to work on the project at school on my school-issued Chromebook when all other websites/extensions were blocked.
-    
-    Github for allowing me to sync my project between Codeanywhere and Android Studio.
-"
+    Github for allowing me to sync my project between Codeanywhere, Codenvy, and Android Studio."
 </string>
 </resources>
