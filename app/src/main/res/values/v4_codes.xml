@@ -1,21 +1,15 @@
 <resources>
 <string name="codesText">
 "<b><big>MORSE CODE</big></b>
-
-    Morse code is transmitted through an on-off tone/light/click, and can be understood without the use of special equipment. Each dot is considered as one unit, and a dash is considered as three units. The space between each part of the same letter is one unit, and the space between each letter is three units. The space between words is seven units.
-"
+    Morse code is transmitted through an on-off tone/light/click, and can be understood without the use of special equipment. Each dot is considered as one unit, and a dash is considered as three units. The space between each part of the same letter is one unit, and the space between each letter is three units. The space between words is seven units."
 </string>
 
 <string name="codesText1">
-"
-    <b><big>APCO 10 CODES</big></b>
-
-    The APCO 10 codes were developed so that personnel may quickly communicate situations using a minimum number of words.
-"
+"<b><big>APCO 10 CODES</big></b>
+    The APCO 10 codes were developed so that personnel may quickly communicate situations using a minimum number of words."
 </string>
 <string name="codesText2">
-"
-    <b><big>GROUND-TO-AIR EMERGENCY CODES</big></b>
-    The ground-to-air emergency codes are useful in signaling messages to search and rescue parties.
+"<b><big>GROUND-TO-AIR EMERGENCY CODES</big></b>
+    The ground-to-air emergency codes are useful in signaling messages to search and rescue parties."
 </string>
 </resources>
