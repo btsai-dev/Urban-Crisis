@@ -68,10 +68,6 @@
                     android:icon="@drawable/explosive"
                     android:title="@string/explosive" />
                 <item
-                    android:id="@+id/medicalID"
-                    android:icon="@drawable/medical"
-                    android:title="@string/medical" />
-                <item
                     android:id="@+id/minimizingID"
                     android:icon="@drawable/minimizing"
                     android:title="@string/minimizing" />
@@ -79,10 +75,6 @@
                     android:id="@+id/nbc1ID"
                     android:icon="@drawable/nbc1"
                     android:title="@string/nbc1" />
-                <item
-                    android:id="@+id/transportationID"
-                    android:icon="@drawable/transportation"
-                    android:title="@string/transportation" />
                 <item
                     android:id="@+id/violentID"
                     android:icon="@drawable/violent"
@@ -94,10 +86,6 @@
         <menu>
             <group>
                 <item
-                    android:id="@+id/barricadingID"
-                    android:icon="@drawable/barricading"
-                    android:title="@string/barricading" />
-                <item
                     android:id="@+id/basicID"
                     android:icon="@drawable/basic"
                     android:title="@string/basic" />
@@ -105,10 +93,6 @@
                     android:id="@+id/firefightingID"
                     android:icon="@drawable/firefighting"
                     android:title="@string/firefighting" />
-                <item
-                    android:id="@+id/improvisedID"
-                    android:icon="@drawable/improvised"
-                    android:title="@string/improvised" />
             </group>
         </menu>
     </item>

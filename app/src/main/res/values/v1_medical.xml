@@ -1,70 +1,69 @@
 <resources>
 <string name="medicalText">
-"<b><big>INTRODUCTION</big></b>
-    Because medical emergency services may not always be immediately available, this page deals with basic medical procedures. Because some injuries require immediate action, emergency care sometimes must be given before emergency services arrive. This is known as first aid. The following information is referenced by FM 21-25.11.
+<b><big>INTRODUCTION</big></b>\n
+    Because medical emergency services may not always be immediately available, this page deals with basic medical procedures. Because some injuries require immediate action, emergency care sometimes must be given before emergency services arrive. This is known as first aid. The following information is referenced by FM 21-25.11.\n\n
     
- <b><big>BODY FUNCTIONS</big></b>
-    This section provides information on vital body functions.
-    - Breathing Process: All humans must have oxygen to live. Through the breathing process, the lungs draw oxygen from the air and put it into the blood. The heart pumps the blood through the body to be used by the cells that require a constant supply of oxygen. Some cells are more dependent on a constant supply of oxygen than others. For example, cells of the brain may die within 4 to 6 minutes without oxygen. These cells do not regenerate. This could result in permanent brain damage, paralysis, or death.
-    - Respiration: Respiration occurs when a person inhales (oxygen is taken into the body) and then exhales (carbon dioxide is expelled from the body). Respiration involves the:
-        - Airway: The airway consists of the nose, mouth, throat, voice box, and windpipe. It is the canal through which air passes to and from the lungs.
-        - Lungs: The lungs are two elastic organs made up of thousands of tiny air spaces and covered by an airtight membrane. The bronchial tree is a part of the lungs.
-        - Rib Cage: The rib cage is formed by the muscle-connected ribs, which join the spine in back, and the breastbone in front. The top part of the rib cage is closed by the structure of the neck, and the bottom part is separated from the abdominal cavity by a large dome-shaped muscle called the diaphragm. The diaphragm and rib muscles, which are under the control of the respiratory center in the brain, automatically contract and relax. Contraction increases and relaxation decreases the size of the rib cage. When the rib cage increases and then decreases, the air pressure in the lungs is first less and then more than the atmospheric pressure, thus causing the air to rush into and out of the lungs to equalize the pressure. This cycle of inhaling and exhaling is repeated about 12 to 18 times per minute.
+<b><big>BODY FUNCTIONS</big></b>\n
+    This section provides information on vital body functions.\n\n
+    - Breathing Process: All humans must have oxygen to live. Through the breathing process, the lungs draw oxygen from the air and put it into the blood. The heart pumps the blood through the body to be used by the cells that require a constant supply of oxygen. Some cells are more dependent on a constant supply of oxygen than others. For example, cells of the brain may die within 4 to 6 minutes without oxygen. These cells do not regenerate. This could result in permanent brain damage, paralysis, or death.\n
+    - Respiration: Respiration occurs when a person inhales (oxygen is taken into the body) and then exhales (carbon dioxide is expelled from the body). Respiration involves the:\n
+        - Airway: The airway consists of the nose, mouth, throat, voice box, and windpipe. It is the canal through which air passes to and from the lungs.\n
+        - Lungs: The lungs are two elastic organs made up of thousands of tiny air spaces and covered by an airtight membrane. The bronchial tree is a part of the lungs.\n
+        - Rib Cage: The rib cage is formed by the muscle-connected ribs, which join the spine in back, and the breastbone in front. The top part of the rib cage is closed by the structure of the neck, and the bottom part is separated from the abdominal cavity by a large dome-shaped muscle called the diaphragm. The diaphragm and rib muscles, which are under the control of the respiratory center in the brain, automatically contract and relax. Contraction increases and relaxation decreases the size of the rib cage. When the rib cage increases and then decreases, the air pressure in the lungs is first less and then more than the atmospheric pressure, thus causing the air to rush into and out of the lungs to equalize the pressure. This cycle of inhaling and exhaling is repeated about 12 to 18 times per minute.\n
     - Blood Circulation: The heart and blood vessels circulate blood through the body tissues. The heart is divided into two separate halves, each acting as a pump. Blood in arteries is bright red due to high oxygen content. Blood in veins is dark red due to low oxygen content. The entire system of the heart, blood vessels, and lymphatics is called the circulatory system.
-        - Heartbeat: To pump blood throughout the body, the heart contracts and relaxes repeatedly. This cycle is called the heartbeat. The normal heartbeat is from 60 to 80 beats per minute.
-        - Pulse: The heartbeat creates a rhythmical expansion and contraction of the arteries. This cycle can be felt at various points in the body and is called the pulse. The most common locations to check for a pulse is in the side of the neck, the groin, the wrist, and the ankle. When checking for a pulse, <b><i>do not use your thumb because you may confuse the beat of your own pulse with that of a casualty.</i></b>"
-</string>
-<string>
-"<b><big>ADVERSE CONDITIONS</big></b>
-    - Lack of Oxygen: Human life cannot exist without a continuous intake of oxygen. Lack of oxygen rapidly leads to death. First aid involves knowing how to open the airway and restore breathing.
-    - Bleeding: Human life cannot continue without an adequate volume of blood circulating through the body to carry oxygen to the tissues. An important first aid measure is to stop the bleeding to prevent the loss of blood.
-    - Shock: Shock means there is an inadequate blood flow to the vital tissues and organs. Shock that remains uncorrected may result in death even though the injury or condition causing the shock would not otherwise be fatal. Shock can result from many causes, such as loss of blood, loss of fluid from deep burns, pain, and reaction to the sight of a wound or blood. First aid includes preventing shock, since the casualty’s chances of survival are much greater if he does not develop shock.
-    - Infection: Recovery from a severe injury or a wound depends largely upon how well the injury or wound was initially protected. Infections result from the multiplication and growth (spread) of harmful microscopic organisms (sometimes referred to as germs). These harmful microscopic organisms are in the air, water, and soil, and on the skin and clothing. Some of these organisms will immediately invade (contaminate) a break in the skin or an open wound. The objective is to keep wounds clean and free of these organisms. A good working knowledge of basic first aid measures also includes knowing how to dress a wound to avoid infection or additional contamination.
- <b><big>BASICS OF FIRST AID</big></b>
-    - <b><i>Check for breathing</i></b>: Lack of oxygen intake (through a compromised airway or inadequate breathing) can lead to brain damage or death in very few minutes.
+        - Heartbeat: To pump blood throughout the body, the heart contracts and relaxes repeatedly. This cycle is called the heartbeat. The normal heartbeat is from 60 to 80 beats per minute.\n
+        - Pulse: The heartbeat creates a rhythmical expansion and contraction of the arteries. This cycle can be felt at various points in the body and is called the pulse. The most common locations to check for a pulse is in the side of the neck, the groin, the wrist, and the ankle. When checking for a pulse, <b><i>do not use your thumb because you may confuse the beat of your own pulse with that of a casualty.</i></b>\n\n
+<b><big>ADVERSE CONDITIONS</big></b>\n
+    - Lack of Oxygen: Human life cannot exist without a continuous intake of oxygen. Lack of oxygen rapidly leads to death. First aid involves knowing how to open the airway and restore breathing.\n
+    - Bleeding: Human life cannot continue without an adequate volume of blood circulating through the body to carry oxygen to the tissues. An important first aid measure is to stop the bleeding to prevent the loss of blood.\n
+    - Shock: Shock means there is an inadequate blood flow to the vital tissues and organs. Shock that remains uncorrected may result in death even though the injury or condition causing the shock would not otherwise be fatal. Shock can result from many causes, such as loss of blood, loss of fluid from deep burns, pain, and reaction to the sight of a wound or blood. First aid includes preventing shock, since the casualty’s chances of survival are much greater if he does not develop shock.\n
+    - Infection: Recovery from a severe injury or a wound depends largely upon how well the injury or wound was initially protected. Infections result from the multiplication and growth (spread) of harmful microscopic organisms (sometimes referred to as germs). These harmful microscopic organisms are in the air, water, and soil, and on the skin and clothing. Some of these organisms will immediately invade (contaminate) a break in the skin or an open wound. The objective is to keep wounds clean and free of these organisms. A good working knowledge of basic first aid measures also includes knowing how to dress a wound to avoid infection or additional contamination.\n\n
+<b><big>BASICS OF FIRST AID</big></b>\n
+    - <b><i>Check for breathing</i></b>: Lack of oxygen intake (through a compromised airway or inadequate breathing) can lead to brain damage or death in very few minutes.\n
     - <b><i>Check for breathing</i></b>: Life cannot continue without an adequate volume of blood to carry oxygen to tissues.
-    - <b><i>Check for shock</i></b>: Unless shock is prevented, first aid performed, and medical treatment provided, death may result even though the injury would not otherwise be fatal.
- <b><big>EVALUATING A CASUALTY</big></b>   
-    Remember, when evaluating/administering first aid, seek medical aid as soon as possible. <b><i>Do not cease first aid procedures</i></b>, but send others to find medical aid.
-    (1) Check the casualty for responsiveness: This is done by gently shaking/tapping the casualty and wait for a response.
-        (a)  If the casualty is conscious, ask where it fee;s different than usual or where it hurts. Ask him/her to try to identify the location of pain, or to identify the area in which there is no feeling.
-        (b)  If the casualty is conscious but is choking and cannot talk, stop the evaluation and begin first aid measures. See the section regarding airway obstruction.
-        (c) If the casualty does not respond, proceed to step 2.
-    <b><i>If a broken back or neck is suspected, do not move the casualty unless his/her life is in immediate danger (such as being near a burning vehicle). Movement may cause paralysis or death.</i></b>
-    (2) Check for breathing: Look for the chest to rise and fall, listen for air escaping during exhalation. and feel for the flow of air on your cheek.
-        (a) If the casualty is breathing, proceed to step 3.
-        (b) If the casualty is not breathing, stop the evaluation and begin first aid measures. Attempt to open the airway. More information is in the AIRWAY OBSTRUCTION section.
-        (c) After ventilating the casualty, proceed to step 3.
-    (3) Check for pulse: Check for a pulse as detailed in the BODY FUNCTIONS section.
-        (a) If there is a pulse, but still no breathing, begin rescue breathing procedures. See the RESCUE BREATHING section.
-        (b) If there is no pulse, seek medical personnel immediately. Use an Automated External Defibrillator if you have one available.
-    (4) Check for bleeding: Look for spurts of blood or blood-soaked clothes. If there is an open wound, stop the evaluation and begin first aid procedures. See BLEEDING for more information.
-    (5) Check for shock: If the signs and symptoms of shock are present, stop the evaluation and begin first aid measures. See SHOCK for more information. The following are the nine symptoms of shock:
-        - Sweaty but cool skin (clammy)
-        - Paleness of skin (for dark-skinned casualties, look for a greyish cast to the skin)
-        - Restlessness or nervousness
-        - Thirst
-        - Loss of blood
-        - Confusion (does not seem aware of his/her surroundings)
-        - Faster than normal breathing rate
-        - Blotchy or bluish skin, especially around the mouth
-        - Nausea or vomiting
-    (6) Check for fractures:
-        (a) Check for the following signs and symptoms of a back or neck injury:
-            - Pain/tenderness of the back or neck area
-            - Cuts or bruises on the back or neck area
-            - Inability for the casualty to move or decreased sensation to extremeties
-            - Unusual body or limb position
-        (b) - Immobilize any casualty suspected of having back or neck injury. If a back injury is suspected, place padding under the natural arch of the casualty's back. Do not move the casualty to place padding. If a neck injury is suspected, immediately immobilize the head and neck.
-        (c) Check the casualty's arms and legs for open or closed fractures.
-        (d) Stop the evaluation and begin first aid measures if a fracture to an arm or a leg is suspected. Refer to FRACTURES for more information.
-    (7) Check for burns: Look carefully for red, blistered, or charred skin. Also check for singed clothing. If burns are found, stop evaluation and begin first aid procedures. See BURNS for more information.
- <b><big>AIRWAY OBSTRUCTION</big></b>
- <b><big>RESCUE BREATHING</big></b>
- <b><big>BLEEDING</big></b>
- <b><big>SHOCK</big></b>
- <b><big>FRACTURES</big></b>
- <b><big>BURNS</big></b>
-"
+    - <b><i>Check for shock</i></b>: Unless shock is prevented, first aid performed, and medical treatment provided, death may result even though the injury would not otherwise be fatal.\n\n
+
+<b><big>EVALUATING A CASUALTY</big></b>\n
+    Remember, when evaluating/administering first aid, seek medical aid as soon as possible. <b><i>Do not cease first aid procedures</i></b>, but send others to find medical aid.\n\n
+    (1) Check the casualty for responsiveness: This is done by gently shaking/tapping the casualty and wait for a response.\n
+        (a)  If the casualty is conscious, ask where it fee;s different than usual or where it hurts. Ask him/her to try to identify the location of pain, or to identify the area in which there is no feeling.\n
+        (b)  If the casualty is conscious but is choking and cannot talk, stop the evaluation and begin first aid measures. See the section regarding airway obstruction.\n
+        (c) If the casualty does not respond, proceed to step 2.\n
+    <b><i>If a broken back or neck is suspected, do not move the casualty unless his/her life is in immediate danger (such as being near a burning vehicle). Movement may cause paralysis or death.</i></b>\n\n
+    (2) Check for breathing: Look for the chest to rise and fall, listen for air escaping during exhalation. and feel for the flow of air on your cheek.\n
+        (a) If the casualty is breathing, proceed to step 3.\n
+        (b) If the casualty is not breathing, stop the evaluation and begin first aid measures. Attempt to open the airway. More information is in the AIRWAY OBSTRUCTION section.\n
+        (c) After ventilating the casualty, proceed to step 3.\n
+    (3) Check for pulse: Check for a pulse as detailed in the BODY FUNCTIONS section.\n
+        (a) If there is a pulse, but still no breathing, begin rescue breathing procedures. See the RESCUE BREATHING section.\n
+        (b) If there is no pulse, seek medical personnel immediately. Use an Automated External Defibrillator if you have one available.\n\n
+    (4) Check for bleeding: Look for spurts of blood or blood-soaked clothes. If there is an open wound, stop the evaluation and begin first aid procedures. See BLEEDING for more information.\n\n
+    (5) Check for shock: If the signs and symptoms of shock are present, stop the evaluation and begin first aid measures. See SHOCK for more information. The following are the nine symptoms of shock:\n
+        - Sweaty but cool skin (clammy)\n
+        - Paleness of skin (for dark-skinned casualties, look for a grayish cast to the skin)\n
+        - Restlessness or nervousness\n
+        - Thirst\n
+        - Loss of blood\n
+        - Confusion (does not seem aware of his/her surroundings)\n
+        - Faster than normal breathing rate\n
+        - Blotchy or bluish skin, especially around the mouth\n
+        - Nausea or vomiting\n\n
+    (6) Check for fractures:\n
+        (a) Check for the following signs and symptoms of a back or neck injury:\n
+            - Pain/tenderness of the back or neck area\n
+            - Cuts or bruises on the back or neck area\n
+            - Inability for the casualty to move or decreased sensation to extremeties\n
+            - Unusual body or limb position\n
+        (b) - Immobilize any casualty suspected of having back or neck injury. If a back injury is suspected, place padding under the natural arch of the casualty\'s back. Do not move the casualty to place padding. If a neck injury is suspected, immediately immobilize the head and neck.\n
+        (c) Check the casualty\'s arms and legs for open or closed fractures.\n
+        (d) Stop the evaluation and begin first aid measures if a fracture to an arm or a leg is suspected. Refer to FRACTURES for more information.\n\n
+    (7) Check for burns: Look carefully for red, blistered, or charred skin. Also check for singed clothing. If burns are found, stop evaluation and begin first aid procedures. See BURNS for more information.\n\n
+<b><big>AIRWAY OBSTRUCTION</big></b>
+<b><big>RESCUE BREATHING</big></b>
+<b><big>BLEEDING</big></b>
+<b><big>SHOCK</big></b>
+<b><big>FRACTURES</big></b>
+<b><big>BURNS</big></b>
+
 </string>
 </resources>

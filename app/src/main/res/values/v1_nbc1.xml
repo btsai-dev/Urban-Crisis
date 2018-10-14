@@ -1,43 +1,43 @@
 <resources>
 <string name="nbc1Text">
-"<b><big>INTRODUCTION</big></b>
-    NBC (Nuclear, Biological, and Chemical) weapons are some of the most dangerous weapons of war. While the use of biological and chemical weapons are prohibited under the Geneva Protocol, not all countries have signed the protocol.
- <b><big>NUCLEAR ATTACKS</big></b>
-    Indicators of a nuclear attack are relatively easy to spot. A nuclear attack can be identified by the bright flash, large explosion, and mushroom-shaped cloud.
-    If you are outside when the explosion occurs:
+<b><big>INTRODUCTION</big></b>\n
+    NBC (Nuclear, Biological, and Chemical) weapons are some of the most dangerous weapons of war. While the use of biological and chemical weapons are prohibited under the Geneva Protocol, not all countries have signed the protocol.\n\n
+<b><big>NUCLEAR ATTACKS</big></b>\n
+    Indicators of a nuclear attack are relatively easy to spot. A nuclear attack can be identified by the bright flash, large explosion, and mushroom-shaped cloud.\n\n
+    If you are outside when the explosion occurs:\n
     <b><i>Immediately after detonation, you should immediately drop face down and close your eyes. To protect exposed skin from the heat, keep your hands and arms under your body. Remain face down until the blast wave passes.</i></b>
-    If a cloud of debris is moving in your direction, evacuate the area in the direction perpendicular to the cloud's path. If the cloud is not visible or you cannot tell the direction of the fallout, seek shelter.
-    If you are inside when the explosion occurs:
-    <b><i>Go as far below ground as possible. Seal doors and windows and shut off ventilation systems. Stay inside until the authorities say it is safe to evacuate</i></b>. Exposure is reduced by 50% in a one-story building and by 90% a level underground.
- <b><big>RADIATION LEVELS</big></b>
-    The following is a range of nuclear radiation levels (in millisieverts) and their corresponding examples/description.
-    - 0.01: Dental x-ray
-    - 0.10: Chest x-ray
-    - 2.00: Head CT scan
-    - 2.00: Natural annual radiation dosage
-    - 10.00: Full body CT scan
-    - 100.00: Lowest annual dose at which any increase in cancer is evident
-    - 1,000.00: Single dosage which would cause non-fatal radiation sickness
-    - 5,000.00: Single dosage which would kill half of those exposed within a month
-    - 10,000.00: Fatal single dosage
-    - 100,000.00: Single dosage which causes death within hours.
- <b><big>BIOLOGICAL ATTACKS</big></b>
-    A biological attack is the intentional release of a biological pathogen against humans, plants, or animals. This may be in the form of bacteria, viruses, or biotoxins.
-    A biological attack may be conducted through aerosols, liquid droplets, dry powder, contamination of food and water, human carriers, release of infected animals or insects, or physically distributed through mail.
-    A biological attack is very difficult to attack. Signs include a sudden unexplained illness infecting many people, large numbers of dead animals, or massive casualties of people with similar symptoms.
-    If your area has been declared exposed to a biological attack, <b>you should immediately seek medical attention</b>. Those exposed by be quarantined. Make sure to follow guidelines in the Disease and Infection section.
- <b><big>CHEMICAL ATTACKS</big></b>
-    A chemical attack is the intentional distribution of toxic chemicals to cause harm. These include chemical weapons, toxic industrial and commercial chemicals, of biologically-derived chemicals.
-    A chemical attack may be conducted through unfiltered ventilation systems, aerosols, passive release, explosives, sabotage, or food and water contamination.
-    A chemical attack can be detected with the proper equipment. Signs include symptoms in local wildlife or with people in close proximity.
-    If the release is <b>inside your building</b>, <b>open windows to access clean air and try to exit the building without passing through contaminated zones</b>. Decontaminate yourself and seek medical attention.
-    If the release is <b>outside</b>, avoid any obvious plume/vapor clouds and <b>seek shelter</b>. Disable ventilation systems and seal doors and windows. Seek the room with as few windows as possible, and seal the entrance.
-  <b><big>GAS MASKS</big></b>
-    For biological and chemical attacks, knowing how to don a gas mask quickly can save your life.
-    1 - Hold the gas mask by the sides with your thumbs on the inside. Insert your chin first, pull the mask over your face, and remove your thumbs.
-    2 - Pull the straps over your head as far as possible while holding the mask in place with one hand.
-    3 - Tighten the straps from the top down. The mask should fit and not shift when you shake your head.
-    4 - Place your hand over the filter/air intake, and breathe deeply until the mask seals onto your face.
-    5 - Remove your hand and breathe normally. Then exit the area as quickly as possible. The canister has a limited capacity, and the biological/chemical agent may have contaminated your body."
+    If a cloud of debris is moving in your direction, evacuate the area in the direction perpendicular to the cloud\'s path. If the cloud is not visible or you cannot tell the direction of the fallout, seek shelter.\n\n
+    If you are inside when the explosion occurs:\n
+    <b><i>Go as far below ground as possible. Seal doors and windows and shut off ventilation systems. Stay inside until the authorities say it is safe to evacuate</i></b>. Exposure is reduced by 50% in a one-story building and by 90% a level underground.\n\n
+<b><big>RADIATION LEVELS</big></b>\n
+    The following is a range of nuclear radiation levels (in millisieverts) and their corresponding examples/description.\n
+    - 0.01: Dental x-ray\n
+    - 0.10: Chest x-ray\n
+    - 2.00: Head CT scan\n
+    - 2.00: Natural annual radiation dosage\n
+    - 10.00: Full body CT scan\n
+    - 100.00: Lowest annual dose at which any increase in cancer is evident\n
+    - 1,000.00: Single dosage which would cause non-fatal radiation sickness\n
+    - 5,000.00: Single dosage which would kill half of those exposed within a month\n
+    - 10,000.00: Fatal single dosage\n
+    - 100,000.00: Single dosage which causes death within hours.\n\n
+<b><big>BIOLOGICAL ATTACKS</big></b>\n
+    A biological attack is the intentional release of a biological pathogen against humans, plants, or animals. This may be in the form of bacteria, viruses, or biotoxins.\n\n
+    A biological attack may be conducted through aerosols, liquid droplets, dry powder, contamination of food and water, human carriers, release of infected animals or insects, or physically distributed through mail.\n\n
+    A biological attack is very difficult to attack. Signs include a sudden unexplained illness infecting many people, large numbers of dead animals, or massive casualties of people with similar symptoms.\n\n
+    If your area has been declared exposed to a biological attack, <b>you should immediately seek medical attention</b>. Those exposed by be quarantined. Make sure to follow guidelines in the Disease and Infection section.\n\n
+<b><big>CHEMICAL ATTACKS</big></b>\n
+    A chemical attack is the intentional distribution of toxic chemicals to cause harm. These include chemical weapons, toxic industrial and commercial chemicals, of biologically-derived chemicals.\n\n
+    A chemical attack may be conducted through unfiltered ventilation systems, aerosols, passive release, explosives, sabotage, or food and water contamination.\n\n
+    A chemical attack can be detected with the proper equipment. Signs include symptoms in local wildlife or with people in close proximity.\n\n
+    If the release is <b>inside your building</b>, <b>open windows to access clean air and try to exit the building without passing through contaminated zones</b>. Decontaminate yourself and seek medical attention.\n\n
+    If the release is <b>outside</b>, avoid any obvious plume/vapor clouds and <b>seek shelter</b>. Disable ventilation systems and seal doors and windows. Seek the room with as few windows as possible, and seal the entrance.\n\n
+ <b><big>GAS MASKS</big></b>\n
+    For biological and chemical attacks, knowing how to don a gas mask quickly can save your life.\n
+    1 - Hold the gas mask by the sides with your thumbs on the inside. Insert your chin first, pull the mask over your face, and remove your thumbs.\n
+    2 - Pull the straps over your head as far as possible while holding the mask in place with one hand.\n
+    3 - Tighten the straps from the top down. The mask should fit and not shift when you shake your head.\n
+    4 - Place your hand over the filter/air intake, and breathe deeply until the mask seals onto your face.\n
+    5 - Remove your hand and breathe normally. Then exit the area as quickly as possible. The canister has a limited capacity, and the biological/chemical agent may have contaminated your body."\n
 </string>
 </resources>

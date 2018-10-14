@@ -1,29 +1,29 @@
 <resources>
 <string name="minimizingText">
-"<b><big>INTRODUCTION</big></b>
-    While punches and kicks can be dangerous, it is still possible to parry their attacks with your arms and legs. With knives, vehicles, firearms, and explosions, not so much. This section deals with these kind of attacks.
- <b><big>KNIVES</big></b>
-    A knife follows one of the nine angles of attack (both directions in the vertical, horizontal, and diagonals). There are the main types of knife attacks:
-    - Thrust: This is the most dangerous attack, and is a strike by jabbing/lunging.
-    - Slash: This is a strike by sweeping the arm, and results in a long cut (which may either be superficial or a deep gash). This is usually not as lethal as a thrust.
-    - Flick: This is a strike by flicking the wrist to inflict numerous cuts on the extended limbs to distract you with multiple bleeding cuts.
-    - Tear: This is a cut made by dragging the tip of the blade across your body to create a rip-type cut.
-    - Hack: This is a strike by a chopping motion.
-    - Butt: This is a strike with the knife handle.
-    <b><i>If you can, immediately move outside the attacker's swing distance, and fight outside of that</i></b>. While punching, <b><i>avoid exposing your inner wrist and forearm as those areas contain vital arteries</i></b>. Avoid letting your attacker gain control of your arm.
-    If the attacker is slashing at you and you cannot avoid the slash, <b><i>move your body in the same direction as the slash to minimize the size of the tear</i></b>.
-    If you are close to the attacker and the attacker is thrusting towards you, <b><i>side step and redirect the attacker's thrusting arm so the knife passes you</i></b>. While maintaining control of the arm, strike the attacker (preferably in the face)."
+<b><big>INTRODUCTION</big></b>\n
+    While punches and kicks can be dangerous, it is still possible to parry their attacks with your arms and legs. With knives, vehicles, firearms, and explosions, not so much. This section deals with these kind of attacks.\n\n
+<b><big>KNIVES</big></b>\n
+    A knife follows one of the nine angles of attack (both directions in the vertical, horizontal, and diagonals). There are the main types of knife attacks:\n
+    - Thrust: This is the most dangerous attack, and is a strike by jabbing/lunging.\n
+    - Slash: This is a strike by sweeping the arm, and results in a long cut (which may either be superficial or a deep gash). This is usually not as lethal as a thrust.\n
+    - Flick: This is a strike by flicking the wrist to inflict numerous cuts on the extended limbs to distract you with multiple bleeding cuts.\n
+    - Tear: This is a cut made by dragging the tip of the blade across your body to create a rip-type cut.\n
+    - Hack: This is a strike by a chopping motion.\n
+    - Butt: This is a strike with the knife handle.\n\n
+    <b><i>If you can, immediately move outside the attacker\'s swing distance, and fight outside of that</i></b>. While punching, <b><i>avoid exposing your inner wrist and forearm as those areas contain vital arteries</i></b>. Avoid letting your attacker gain control of your arm.\n\n
+    If the attacker is slashing at you and you cannot avoid the slash, <b><i>move your body in the same direction as the slash to minimize the size of the tear</i></b>.\n\n
+    If you are close to the attacker and the attacker is thrusting towards you, <b><i>side step and redirect the attacker\'s thrusting arm so the knife passes you</i></b>. While maintaining control of the arm, strike the attacker (preferably in the face).\n
 </string>
 
 <string name="minimizingText1">
-"<b><big>VEHICLES</big></b>
-    If someone is trying to run you over, get out of the path of the vehicle and try to keep solid, stationary objects (such as other vehicles, telephone poles, and trees) in between you and the vehicle. If you can, try to enter the nearest building.
-    If you cannot avoid the impact, roll into the collision and allow it to send you partially flying. Try to land in the center of the hood and roll over the windshield and the roof. The windshield will likely shatter, but you will not fall through it. While the driver's visibility is disrupted, escape. Seek medical assistance immediately as you may have internal bleeding.
- <b><big>FIREARMS</big></b>
-    When you are being fired upon, crouch down. Bullets can and will ricochet along the ground and walls, so stay away from them. Move towards cover and escape the area. Avoid getting shot at all costs.
-    If you do get shot, your adrenaline levels may temporarily minimize pain. However, you may be severely bleeding, so continue your efforts to escape (such as by crawling/rolling).
- <b><big>EXPLOSIONS</big></b>
-    If you realize that an explosion is imminent and cover is not immediately available, take one giant leap away from the suspected source/direction of the source and dive to the ground.
-    Keeping your feet towards the explosion, and cross your legs to protect your leg arteries. Cover your ears to protect your eardrums and keep your elbows close to you. Open your mouth to avoid bursting your lungs from the inevitable change in air pressure. Close your eyes and stay down until the explosion has ceased, the shockwave has passed, and the shrapnel has settled."
+<b><big>VEHICLES</big></b>\n
+    If someone is trying to run you over, get out of the path of the vehicle and try to keep solid, stationary objects (such as other vehicles, telephone poles, and trees) in between you and the vehicle. If you can, try to enter the nearest building.\n\n
+    If you cannot avoid the impact, roll into the collision and allow it to send you partially flying. Try to land in the center of the hood and roll over the windshield and the roof. The windshield will likely shatter, but you will not fall through it. While the driver\'s visibility is disrupted, escape. Seek medical assistance immediately as you may have internal bleeding.\n\n
+<b><big>FIREARMS</big></b>\n
+    When you are being fired upon, crouch down. Bullets can and will ricochet along the ground and walls, so stay away from them. Move towards cover and escape the area. Avoid getting shot at all costs.\n\n
+    If you do get shot, your adrenaline levels may temporarily minimize pain. However, you may be severely bleeding, so continue your efforts to escape (such as by crawling/rolling).\n\n
+<b><big>EXPLOSIONS</big></b>\n
+    If you realize that an explosion is imminent and cover is not immediately available, take one giant leap away from the suspected source/direction of the source and dive to the ground.\n\n
+    Keeping your feet towards the explosion, and cross your legs to protect your leg arteries. Cover your ears to protect your eardrums and keep your elbows close to you. Open your mouth to avoid bursting your lungs from the inevitable change in air pressure. Close your eyes and stay down until the explosion has ceased, the shockwave has passed, and the shrapnel has settled.
 </string>
 </resources>

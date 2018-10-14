@@ -18,6 +18,7 @@ import android.support.design.widget.NavigationView;
 import android.support.v4.widget.DrawerLayout;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RelativeLayout;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -44,20 +45,21 @@ public class MainActivity extends AppCompatActivity {
         // Prepare the toolbars
         Toolbar toolbar = findViewById(R.id.toolbar); // find the toolbar
         setSupportActionBar(toolbar); // set the support action bar
-        
+
         // Set toolbar height
+/**
         RelativeLayout.LayoutParams layoutParams = (RelativeLayout.LayoutParams) toolbar.getLayoutParams();
         layoutParams.height = 10;
         toolbar.setLayoutParams(layoutParams);
         toolbar.requestLayout();
-        
+**/
         // Modify the action bar to my liking
         ActionBar actionbar = getSupportActionBar(); // extract the action bar
         actionbar.setDisplayHomeAsUpEnabled(true); // enable the up button
         actionbar.setHomeAsUpIndicator(R.drawable.ic_menu);   // set the up to open the navigation bar
-        actionbar.setTitle("Urban Crisis Manual") // set up the title
+        actionbar.setTitle("Urban Crisis Manual"); // set up the title
         actionbar.setSubtitle("Main"); // set up the subtitle
-        
+
         // set up the navigation view from the layout
         mDrawerLayout = findViewById(R.id.drawer_layout); // pull out the drawer_layout
         NavigationView navigationView = findViewById(R.id.nav_view); // navigation menu extract
@@ -138,30 +140,22 @@ public class MainActivity extends AppCompatActivity {
                         //return inflater.inflate(R.layout.v1_escaping, container, false);
                     case R.id.explosiveID:
                         return inflater.inflate(R.layout.v1_explosive, container, false);
-                    case R.id.medicalID:
-                        return inflater.inflate(R.layout.v1_medical, container, false);
                     case R.id.minimizingID:
                         return inflater.inflate(R.layout.v1_minimizing, container, false);
                     case R.id.nbc1ID:
                         return inflater.inflate(R.layout.v1_nbc1, container, false);
                     //case R.id.nbc2ID:
                         //return inflater.inflate(R.layout.v1_nbc2, container, false);
-                    case R.id.transportationID:
-                        return inflater.inflate(R.layout.v1_transportation, container, false);
                     case R.id.violentID:
                         return inflater.inflate(R.layout.v1_violent, container, false);
                    // case R.id.avoidingID:
                         //return inflater.inflate(R.layout.v2_avoiding, container, false);
-                    case R.id.barricadingID:
-                        return inflater.inflate(R.layout.v2_barricading, container, false);
                     case R.id.basicID:
                         return inflater.inflate(R.layout.v3_basic, container, false);
                     //case R.id.disarmingID:
                         //return inflater.inflate(R.layout.v3_disarming, container, false);
                     case R.id.firefightingID:
                         return inflater.inflate(R.layout.v3_firefighting, container, false);
-                    case R.id.improvisedID:
-                        return inflater.inflate(R.layout.v3_improvised, container, false);
                     //case R.id.codesID:
                         //return inflater.inflate(R.layout.v4_codes, container, false);
                     case R.id.signalsID:

@@ -1,34 +1,32 @@
 <resources>
 <string name="activeText">
-"<b><big>INTRODUCTION</big></b>
-    An active shooter is an individual actively engaged in killing or attempting to kill people in a confined or populated area. In most cases, the individual is using firearms and randomly chooses targets. Active "shooters" may also primarily use clubs, knives, explosives, and/or vehicles.
-    All active shootings are unique to the environment they are in. A shooting can only be stopped by:
-    - Law enforcement and/or armed opposition
-    - Resisting civilians (even if they are unarmed)
-    - The shooter himself/herself
-    The average police response time is 18 minutes, while the average active shooting situation lasts only within 10 to 15 minutes. Unless there are on-site security, armed civilians, and/or law enforcement nearby, <b><i>you will need to deal with an active shooter</i></b>.
-    If a vehicle is the method of attack, see the vehicle section of <i>Minimizing Injury</i>.
- <b><big>LAW ENFORCEMENT</big></b>
-    If you call 911, make sure to try to state:
-    - Location of the active shooter
-    - Number of active shooters
-    - Physical description of shooter(s)
-    - Number and type of weapons carried
-    Law enforcement will arrive usually in teams of four. They may be carrying tactical equipment and are usually heavily armed. They may use tear gas or pepper spray, and <b><i>may violently push you to the ground for your safety as well as to confirm that you are not a threat</i></b>. You will be herded with others to a safe location for treatment, identification, and questioning.
-    When you encounter law enforcement outside or within a building, <b><i>drop anything you are holding and raise your hands. Remain calm and follow any instructions given</i></b>. The initial response officers will not stop to assist casualties. Only after they pass will rescue teams arrive to treat and evacuate casualties.
- <b><big>ESCAPING</big></b>
-    Your initial goal is to escape the area. Leave all belongings and personal items behind, and try to get others to follow you. <b><i>Run in a zigzag pattern and from cover to cover. Because bullets can and will ricochet off of floors and walls, move in a crouched position if you are being shot at directly</i></b>. Do not attempt to move casualties.
- <b><big>COVER AND CONCEALMENT</big></b>
-    It is important to remain aware of the difference between cover and concealment. Cover is able to stop bullets. Concealment can hide you from the attacker. Cover can hide you from the attacker and protect you at the same time. <b><i>Always run to cover and never concealment.</i></b> An shooter able to fire multiple rounds in quick succession will be able to easily hit anything hiding behind concealment.
-    Dense wood, concrete, brick, granite, and steel can serve as cover. Granite-top tables and metal desks can be flipped onto their sides to be used as emergency cover.
-    Drywall, sofas, vending machines, trash cans, and vehicles should not be used as cover. If you must hide behind a vehicle, hide behind the engine side rather than the trunk side.
- <b><big>HIDING</big></b>
-    If you cannot escape the area, find the closest area away from the shooter and secure it. Hide within the room outside of the shooter's view and silent all electronic devices. Lock the door and barricade it as much as possible. Place signs in exterior windows to identify your location. Once you are safely hidden, call out for help using your cellular device. <b><i>Do not open the door under any circumstances</i></b>.
-    For more information on barricading, see <i>Barricading Techniques</i>.
- <b><big>FIGHTING</big></b>
-    Fighting is the option of last resort, and should only be used when all other options have failed/are unavailable and your life is in imminent danger. Nevertheless, fighting is still an option, and it is possible for unarmed civilians to stop an active shooting. As aggression by civilians is unexpected, you may be able to surprise a shooter. It is better to attack as a group.
+<b><big>INTRODUCTION</big></b>\n
+    An active shooter is an individual actively engaged in killing or attempting to kill people in a confined or populated area. In most cases, the individual is using firearms and randomly chooses targets. Active shooters may also use clubs, knives, explosives, and/or vehicles.\n\n
+    All active shootings are unique to the environment they are in. A shooting can only be stopped by:\n
+    - Law enforcement and/or armed opposition\n
+    - Resisting civilians (even if they are unarmed)\n
+    - The shooter himself/herself\n\n
+    The average police response time is 18 minutes, while the average active shooting situation lasts only within 10 to 15 minutes. Unless there are on-site security, armed civilians, and/or law enforcement nearby, <b><i>you will need to deal with an active shooter</i></b>.\n\n
+    If a vehicle is the method of attack, see the vehicle section of <i>Minimizing Injury</i>.\n\n
+<b><big>LAW ENFORCEMENT</big></b>\n
+    If you call 911, make sure to try to state:\n
+    - Location of the active shooter\n
+    - Number of active shooters\n
+    - Physical description of shooter(s)\n
+    - Number and type of weapons carried\n\n
+    Law enforcement will arrive usually in teams of four. They may be carrying tactical equipment and are usually heavily armed. They may use tear gas or pepper spray, and <b><i>may violently push you to the ground for your safety as well as to confirm that you are not a threat</i></b>. You will be herded with others to a safe location for treatment, identification, and questioning.\n\n
+    When you encounter law enforcement outside or within a building, <b><i>drop anything you are holding and raise your hands. Remain calm and follow any instructions given</i></b>. The initial response officers will not stop to assist casualties. Only after they pass will rescue teams arrive to treat and evacuate casualties.\n\n
+<b><big>ESCAPING</big></b>\n
+    Your initial goal is to escape the area. Leave all belongings and personal items behind, and try to get others to follow you. <b><i>Run in a zigzag pattern and from cover to cover. Because bullets can and will ricochet off of floors and walls, move in a crouched position if shots are heading in your general direction and it is unsafe to stand up</i></b>. Do not attempt to move casualties.\n\n
+<b><big>COVER AND CONCEALMENT</big></b>\n
+    It is important to remain aware of the difference between cover and concealment. Cover is able to stop bullets. Concealment can hide you from the attacker. Cover can hide you from the attacker and protect you at the same time. <b><i>Always run to cover and never concealment.</i></b> An shooter able to fire multiple rounds in quick succession will be able to easily hit anything hiding behind concealment.\n\n
+    Dense wood, concrete, brick, granite, and steel can serve as cover. Granite-top tables and metal desks can be flipped onto their sides to be used as emergency cover.\n\n
+    Drywall, sofas, vending machines, trash cans, and vehicles should not be used as cover. If you must hide behind a vehicle, hide behind the engine side rather than the trunk side.\n\n
+<b><big>HIDING</big></b>\n
+    If you cannot escape the area, find the closest area away from the shooter and secure it. Hide within the room outside of the shooter\'s view and silent all electronic devices. Lock the door and barricade it as much as possible. Place signs in exterior windows to identify your location. Once you are safely hidden, call out for help using your cellular device. <b><i>Do not open the door under any circumstances</i></b>.\n\n
+<b><big>FIGHTING</big></b>\n
+    Fighting is the option of last resort, and should only be used when all other options have failed/are unavailable and your life is in imminent danger. Nevertheless, fighting is still an option, and it is possible for unarmed civilians to stop an active shooting. As aggression by civilians is unexpected, you may be able to surprise a shooter. It is better to attack as a group.\n\n
     <b><i>Gain control of the weapon before gaining control of the shooter</i></b>. Use improvised weapons and strike the active shooter until he/she is no longer moving.
-    For more, see <i>Basic Combatives</i> and <i>Improvised Weapons</i>.
 "
 </string>
 </resources>
